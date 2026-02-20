@@ -17,7 +17,8 @@ function absUrl(href) {
 (async () => {
   const browser = await chromium.launch();
   const page = await browser.newPage();
-  await page.goto(SOURCE_URL, { waitUntil: "networkidle" });
+  await page.goto(SOURCE_URL, { waitUntil: "domcontentloaded", timeout: 90000 });
+await page.waitForTimeout(2500); // let the client-side render finish
 
   const items = await page.evaluate(() => {
     const heading = Array.from(document.querySelectorAll("h2,h3"))
