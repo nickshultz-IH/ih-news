@@ -1,0 +1,11 @@
+{
+  "name": "ih-news-scraper",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.42.0"
+  }
+}
