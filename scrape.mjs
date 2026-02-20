@@ -20,6 +20,8 @@ function absUrl(href) {
   await page.goto(SOURCE_URL, { waitUntil: "domcontentloaded", timeout: 90000 });
 await page.waitForTimeout(2500); // let the client-side render finish
   await page.waitForSelector("text=You might be interested in", { timeout: 30000 });
+  await page.waitForLoadState("domcontentloaded");
+await page.waitForTimeout(2500);
 
   const items = await page.evaluate(() => {
     const heading = Array.from(document.querySelectorAll("h2,h3"))
@@ -57,7 +59,25 @@ await page.waitForTimeout(2500); // let the client-side render finish
       const card = a.closest("article, li, div") || a.parentElement;
 
       const img = card?.querySelector("img");
-      const imageUrl = img?.getAttribute("src") || "";
+
+// Try the best/most-common sources Playwright will see
+let imageUrl =
+  img?.currentSrc ||
+  img?.src ||
+  img?.getAttribute("src") ||
+  img?.getAttribute("data-src") ||
+  img?.getAttribute("data-lazy-src") ||
+  "";
+
+// If still empty, sometimes the image is a background-image on a wrapper
+if (!imageUrl) {
+  const bgEl = card?.querySelector("[style*='background-image']") || card;
+  if (bgEl) {
+    const bg = window.getComputedStyle(bgEl).backgroundImage; // url("...")
+    const m = bg && bg.match(/url\(["']?(.*?)["']?\)/);
+    if (m && m[1]) imageUrl = m[1];
+  }
+}
 
       const bits = Array.from(card?.querySelectorAll("p, span, div") || [])
         .map(el => el.textContent?.trim())
