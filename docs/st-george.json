@@ -1,0 +1,62 @@
+{
+  "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
+  "scrapedAt": "2026-02-20T20:56:09.797Z",
+  "items": [
+    {
+      "title": "Move more for heart health: why 150 minutes of physical activity per week matters",
+      "url": "https://intermountainhealthcare.org/blogs/article/move-more-for-heart-health-why-150-minutes-of-physical-activity-per-week-matters",
+      "category": "Heart health",
+      "description": "Learn why 150 minutes of weekly movement lowers heart disease risk, improves blood pressure and energy, and supports long‑term cardiovascular health",
+      "imageUrl": ""
+    },
+    {
+      "title": "GLP-1 medications for heart health: why cardiologists see them as more than a weight loss drug",
+      "url": "https://intermountainhealthcare.org/blogs/article/glp1-medications-for-heart-health-how-these-weight-loss-drugs-may-reduce-heart-attack-risk-colorado",
+      "category": "Heart health",
+      "description": "Learn how these drugs may lower heart attack and stroke risk, reduce inflammation, target visceral fat, and support early cardiovascular prevention",
+      "imageUrl": ""
+    },
+    {
+      "title": "Winterize your vehicle: The emergency kit checklist every driver needs",
+      "url": "https://intermountainhealthcare.org/blogs/article/winterize-your-vehicle-the-emergency-kit-checklist-every-driver-needs",
+      "category": "Emergency care",
+      "description": "Learn how to winterize your vehicle with a comprehensive emergency kit checklist.",
+      "imageUrl": ""
+    },
+    {
+      "title": "Navigating scanxiety: Finding calm during breast cancer screening and treatment",
+      "url": "https://intermountainhealthcare.org/blogs/article/navigating-scanxiety-finding-calm-during-breast-cancer-screening-and-treatment",
+      "category": "Women's health",
+      "description": "Learn how to manage scanxiety — the stress and uncertainty around breast cancer screenings and results. Discover expert tips, calming strategies, and emotional support resources to help you feel more in control.",
+      "imageUrl": ""
+    },
+    {
+      "title": "The hidden cost of chronic pain: What it steals and how to take it back",
+      "url": "https://intermountainhealthcare.org/blogs/article/the-hidden-cost-of-chronic-pain-what-it-steals-and-how-to-take-it-back",
+      "category": "Wellness and preventative medicine",
+      "description": "Discover how our whole-person approach and virtual care options help you reclaim your strength, confidence and quality of life",
+      "imageUrl": ""
+    },
+    {
+      "title": "Genetic testing is eye-opening for Montana family with a history of cancer",
+      "url": "https://intermountainhealthcare.org/blogs/article/genetic-testing-is-eye-opening-for-montana-family-with-a-history-of-cancer",
+      "category": "Cancer care",
+      "description": "Discover how one woman’s routine checkup led to a life-saving diagnosis of Lynch syndrome.",
+      "imageUrl": ""
+    },
+    {
+      "title": "Behind the Bloodwork: Learn what routine labs can uncover",
+      "url": "https://intermountainhealthcare.org/blogs/article/behind-the-bloodwork-learn-what-routine-labs-can-uncover",
+      "category": "Primary care",
+      "description": "Discover how blood tests can uncover hidden health issues early and guide smarter care decisions—even when you feel fine",
+      "imageUrl": ""
+    },
+    {
+      "title": "Breast cancer survivor finds quality care close to home",
+      "url": "https://intermountainhealthcare.org/blogs/article/breast-cancer-survivor-finds-quality-care-close-to-home",
+      "category": "Cancer care",
+      "description": "Julie Scholes had it all—love, health, and a job she adored. But in spring 2023, a post-workout chest pain and lump changed everything.",
+      "imageUrl": ""
+    }
+  ]
+}
