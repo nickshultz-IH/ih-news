@@ -19,6 +19,7 @@ function absUrl(href) {
   const page = await browser.newPage();
   await page.goto(SOURCE_URL, { waitUntil: "domcontentloaded", timeout: 90000 });
 await page.waitForTimeout(2500); // let the client-side render finish
+  await page.waitForSelector("text=You might be interested in", { timeout: 30000 });
 
   const items = await page.evaluate(() => {
     const heading = Array.from(document.querySelectorAll("h2,h3"))
