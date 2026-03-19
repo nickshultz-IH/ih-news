@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-03-16T16:12:39.336Z",
+  "scrapedAt": "2026-03-19T17:20:01.324Z",
   "items": [
+    {
+      "title": "Early-onset colon cancer: symptoms, risk factors, and when to get screened",
+      "url": "https://intermountainhealthcare.org/blogs/article/early-onset-colon-cancer-symptoms-risk-factors-and-when-to-get-screened",
+      "category": "Cancer care",
+      "description": "Colon cancer is rising in adults under 50, often diagnosed at advanced stages. Learn why speaking up early can save lives.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/colon-cancer-in-younger-adults.ashx?h=1318&amp;iar=0&amp;w=2274&amp;hash=32B55AA66986395605CE64DA019721F0"
+    },
     {
       "title": "Move more for heart health: why 150 minutes of physical activity per week matters",
       "url": "https://intermountainhealthcare.org/blogs/article/move-more-for-heart-health-why-150-minutes-of-physical-activity-per-week-matters",
@@ -15,13 +22,6 @@
       "category": "Heart health",
       "description": "Learn how these drugs may lower heart attack and stroke risk, reduce inflammation, target visceral fat, and support early cardiovascular prevention",
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/glp1-for-heart-health.ashx?h=1500&amp;iar=0&amp;w=2000&amp;hash=A487F5FA238B4C82168E2ADF2A00F735"
-    },
-    {
-      "title": "Winterize your vehicle: The emergency kit checklist every driver needs",
-      "url": "https://intermountainhealthcare.org/blogs/article/winterize-your-vehicle-the-emergency-kit-checklist-every-driver-needs",
-      "category": "Emergency care",
-      "description": "Learn how to winterize your vehicle with a comprehensive emergency kit checklist.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/winter-driving-safety.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=BC35EC5E0D50B2F2FEF4FEFAF49E7EE1"
     },
     {
       "title": "Navigating scanxiety: Finding calm during breast cancer screening and treatment",
