@@ -8,7 +8,7 @@ const SOURCE_URL =
 
 const OUT_DIR = "docs";
 const OUT_FILE = "st-george.json";
-const MAX_ITEMS = 8;
+const MAX_ITEMS = 12;
 
 // ---------- helpers ----------
 function absUrl(href) {
