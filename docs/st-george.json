@@ -1,13 +1,62 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-04-13T16:21:45.804Z",
+  "scrapedAt": "2026-04-20T16:18:38.551Z",
   "items": [
     {
+      "title": "Back pain vs. back injury: how to tell the difference and when to see a doctor",
+      "url": "https://intermountainhealthcare.org/blogs/article/back-pain-vs-back-injury-how-to-tell-the-difference-and-when-to-see-a-doctor",
+      "category": "Orthopedics",
+      "description": "Learn how to distinguish common, everyday back pain from symptoms that may signal a more serious back or spine injury",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/back-pain-red-flags.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=F0A1A4A46B59063F3EB73BF00A8C7940"
+    },
+    {
       "title": "Early-onset colon cancer: symptoms, risk factors, and when to get screened",
-      "url": "undefined",
+      "url": "https://intermountainhealthcare.org/blogs/article/early-onset-colon-cancer-symptoms-risk-factors-and-when-to-get-screened",
       "category": "Cancer care",
       "description": "Colon cancer is rising in adults under 50, often diagnosed at advanced stages. Learn why speaking up early can save lives.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/colon-cancer-in-younger-adults.ashx?h=1318&amp;iar=0&amp;w=2274&amp;hash=32B55AA66986395605CE64DA019721F0"
+    },
+    {
+      "title": "Two of the best ways to help protect your baby from RSV",
+      "url": "https://intermountainhealthcare.org/blogs/article/two-of-the-best-ways-to-help-protect-your-baby-from-rsv",
+      "category": "Pediatrics",
+      "description": "RSV can be serious for newborns, but these proven prevention tools can dramatically reduce hospitalizations.",
       "imageUrl": ""
+    },
+    {
+      "title": "Move more for heart health: why 150 minutes of physical activity per week matters",
+      "url": "https://intermountainhealthcare.org/blogs/article/move-more-for-heart-health-why-150-minutes-of-physical-activity-per-week-matters",
+      "category": "Heart health",
+      "description": "Learn why 150 minutes of weekly movement lowers heart disease risk, improves blood pressure and energy, and supports long‑term cardiovascular health",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/physical-activity-heart-health.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=3086A652EB164FBC1E7ECE922ADDDEF3"
+    },
+    {
+      "title": "GLP-1 medications for heart health: why cardiologists see them as more than a weight loss drug",
+      "url": "https://intermountainhealthcare.org/blogs/article/glp1-medications-for-heart-health-how-these-weight-loss-drugs-may-reduce-heart-attack-risk-colorado",
+      "category": "Heart health",
+      "description": "Learn how these drugs may lower heart attack and stroke risk, reduce inflammation, target visceral fat, and support early cardiovascular prevention",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/glp1-for-heart-health.ashx?h=1500&amp;iar=0&amp;w=2000&amp;hash=A487F5FA238B4C82168E2ADF2A00F735"
+    },
+    {
+      "title": "Navigating scanxiety: Finding calm during breast cancer screening and treatment",
+      "url": "https://intermountainhealthcare.org/blogs/article/navigating-scanxiety-finding-calm-during-breast-cancer-screening-and-treatment",
+      "category": "Women's health",
+      "description": "Learn how to manage scanxiety — the stress and uncertainty around breast cancer screenings and results. Discover expert tips, calming strategies, and emotional support resources to help you feel more in control.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/pink-ribbon-for-breast-cancer-awareness.ashx?h=1414&amp;iar=0&amp;w=2119&amp;hash=A7A138EEB75D079BED3990EEC5531B33"
+    },
+    {
+      "title": "The hidden cost of chronic pain: What it steals and how to take it back",
+      "url": "https://intermountainhealthcare.org/blogs/article/the-hidden-cost-of-chronic-pain-what-it-steals-and-how-to-take-it-back",
+      "category": "Wellness and preventative medicine",
+      "description": "Discover how our whole-person approach and virtual care options help you reclaim your strength, confidence and quality of life",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/what-chronic-pain-really-steals.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=E3A461DBCA7B9F02C8A33570402CC09E"
+    },
+    {
+      "title": "Genetic testing is eye-opening for Montana family with a history of cancer",
+      "url": "https://intermountainhealthcare.org/blogs/article/genetic-testing-is-eye-opening-for-montana-family-with-a-history-of-cancer",
+      "category": "Cancer care",
+      "description": "Discover how one woman’s routine checkup led to a life-saving diagnosis of Lynch syndrome.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/genetics-reveal-life-saving-clues.ashx?h=1167&amp;iar=0&amp;w=948&amp;hash=DAF71F01FE7B9F9EBDE6E68949457D25"
     }
   ]
 }
