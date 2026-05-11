@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-05-04T16:55:56.326Z",
+  "scrapedAt": "2026-05-11T17:29:00.393Z",
   "items": [
+    {
+      "title": "BE FAST: you only need one stroke warning sign to call 911",
+      "url": "https://intermountainhealthcare.org/blogs/article/be-fast-you-only-need-one-stroke-warning-sign-to-call-911",
+      "category": "Emergency care",
+      "description": "Learn the warning signs, why one sudden change is enough to call 911, and how fast action can save brain function and lives.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/stroke-awareness-signs-and-symptoms.ashx?h=2400&amp;iar=0&amp;w=3600&amp;hash=083F3D4907959FB0594B191E2E408FC1"
+    },
     {
       "title": "Back pain vs. back injury: how to tell the difference and when to see a doctor",
       "url": "https://intermountainhealthcare.org/blogs/article/back-pain-vs-back-injury-how-to-tell-the-difference-and-when-to-see-a-doctor",
@@ -50,13 +57,6 @@
       "category": "Wellness and preventative medicine",
       "description": "Discover how our whole-person approach and virtual care options help you reclaim your strength, confidence and quality of life",
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/what-chronic-pain-really-steals.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=E3A461DBCA7B9F02C8A33570402CC09E"
-    },
-    {
-      "title": "Genetic testing is eye-opening for Montana family with a history of cancer",
-      "url": "https://intermountainhealthcare.org/blogs/article/genetic-testing-is-eye-opening-for-montana-family-with-a-history-of-cancer",
-      "category": "Cancer care",
-      "description": "Discover how one woman’s routine checkup led to a life-saving diagnosis of Lynch syndrome.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/genetics-reveal-life-saving-clues.ashx?h=1167&amp;iar=0&amp;w=948&amp;hash=DAF71F01FE7B9F9EBDE6E68949457D25"
     }
   ]
 }
