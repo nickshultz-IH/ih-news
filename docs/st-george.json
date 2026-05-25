@@ -1,7 +1,14 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-05-18T17:34:23.166Z",
+  "scrapedAt": "2026-05-25T17:12:05.100Z",
   "items": [
+    {
+      "title": "New Utah e-bike laws are coming: what St. George families should know",
+      "url": "https://intermountainhealthcare.org/blogs/article/new-utah-e-bike-laws-are-coming-what-st-george-families-should-know",
+      "category": "Pediatrics",
+      "description": "From helmet requirements to age rules and speed limits, here’s what parents and kids should know before the next ride",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/600-px-article-3-main-kid-on-e-bike.ashx?h=300&amp;iar=0&amp;w=600&amp;hash=164F6688F924278572CE424D1FBC8B66"
+    },
     {
       "title": "BE FAST: you only need one stroke warning sign to call 911",
       "url": "https://intermountainhealthcare.org/blogs/article/be-fast-you-only-need-one-stroke-warning-sign-to-call-911",
@@ -31,6 +38,13 @@
       "imageUrl": ""
     },
     {
+      "title": "Why shortness of breath can be a sign of heart disease in women",
+      "url": "https://intermountainhealthcare.org/blogs/article/why-shortness-of-breath-can-be-a-sign-of-heart-disease-in-women",
+      "category": "Heart health",
+      "description": "Learn how one woman discovered a life‑threatening blockage and why listening to subtle symptoms matters",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/canyons-patient-story.ashx?h=1422&amp;iar=0&amp;w=2523&amp;hash=6920B4C4B72A3E05B81C004E1814583B"
+    },
+    {
       "title": "Move more for heart health: why 150 minutes of physical activity per week matters",
       "url": "https://intermountainhealthcare.org/blogs/article/move-more-for-heart-health-why-150-minutes-of-physical-activity-per-week-matters",
       "category": "Heart health",
@@ -43,20 +57,6 @@
       "category": "Heart health",
       "description": "Learn how these drugs may lower heart attack and stroke risk, reduce inflammation, target visceral fat, and support early cardiovascular prevention",
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/glp1-for-heart-health.ashx?h=1500&amp;iar=0&amp;w=2000&amp;hash=A487F5FA238B4C82168E2ADF2A00F735"
-    },
-    {
-      "title": "Navigating scanxiety: Finding calm during breast cancer screening and treatment",
-      "url": "https://intermountainhealthcare.org/blogs/article/navigating-scanxiety-finding-calm-during-breast-cancer-screening-and-treatment",
-      "category": "Women's health",
-      "description": "Learn how to manage scanxiety — the stress and uncertainty around breast cancer screenings and results. Discover expert tips, calming strategies, and emotional support resources to help you feel more in control.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/pink-ribbon-for-breast-cancer-awareness.ashx?h=1414&amp;iar=0&amp;w=2119&amp;hash=A7A138EEB75D079BED3990EEC5531B33"
-    },
-    {
-      "title": "The hidden cost of chronic pain: What it steals and how to take it back",
-      "url": "https://intermountainhealthcare.org/blogs/article/the-hidden-cost-of-chronic-pain-what-it-steals-and-how-to-take-it-back",
-      "category": "Wellness and preventative medicine",
-      "description": "Discover how our whole-person approach and virtual care options help you reclaim your strength, confidence and quality of life",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/what-chronic-pain-really-steals.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=E3A461DBCA7B9F02C8A33570402CC09E"
     }
   ]
 }
