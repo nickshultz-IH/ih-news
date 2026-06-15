@@ -1,62 +1,62 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-06-08T18:05:42.013Z",
+  "scrapedAt": "2026-06-15T19:07:00.020Z",
   "items": [
     {
-      "title": "New Utah e-bike laws are coming: what St. George families should know",
-      "url": "https://intermountainhealthcare.org/blogs/article/new-utah-e-bike-laws-are-coming-what-st-george-families-should-know",
-      "category": "Pediatrics",
-      "description": "From helmet requirements to age rules and speed limits, here’s what parents and kids should know before the next ride",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/600-px-article-3-main-kid-on-e-bike.ashx?h=300&amp;iar=0&amp;w=600&amp;hash=164F6688F924278572CE424D1FBC8B66"
-    },
-    {
-      "title": "BE FAST: you only need one stroke warning sign to call 911",
-      "url": "https://intermountainhealthcare.org/blogs/article/be-fast-you-only-need-one-stroke-warning-sign-to-call-911",
-      "category": "Emergency care",
-      "description": "Learn the warning signs, why one sudden change is enough to call 911, and how fast action can save brain function and lives.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/stroke-awareness-signs-and-symptoms.ashx?h=2400&amp;iar=0&amp;w=3600&amp;hash=083F3D4907959FB0594B191E2E408FC1"
-    },
-    {
-      "title": "Back pain vs. back injury: how to tell the difference and when to see a doctor",
-      "url": "https://intermountainhealthcare.org/blogs/article/back-pain-vs-back-injury-how-to-tell-the-difference-and-when-to-see-a-doctor",
-      "category": "Orthopedics",
-      "description": "Learn how to distinguish common, everyday back pain from symptoms that may signal a more serious back or spine injury",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/back-pain-red-flags.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=F0A1A4A46B59063F3EB73BF00A8C7940"
-    },
-    {
-      "title": "Early-onset colon cancer: symptoms, risk factors, and when to get screened",
-      "url": "https://intermountainhealthcare.org/blogs/article/early-onset-colon-cancer-symptoms-risk-factors-and-when-to-get-screened",
+      "title": "Breast cancer survivor finds quality care close to home",
+      "url": "https://intermountainhealthcare.org/blogs/article/breast-cancer-survivor-finds-quality-care-close-to-home",
       "category": "Cancer care",
-      "description": "Colon cancer is rising in adults under 50, often diagnosed at advanced stages. Learn why speaking up early can save lives.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/colon-cancer-in-younger-adults.ashx?h=1318&amp;iar=0&amp;w=2274&amp;hash=32B55AA66986395605CE64DA019721F0"
+      "description": "Julie Scholes had it all—love, health, and a job she adored. But in spring 2023, a post-workout chest pain and lump changed everything.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-story-photo-03.ashx?h=2160&amp;iar=0&amp;w=3840&amp;hash=819DB468D3C90F2DC75B17D0330AEC90"
     },
     {
-      "title": "Two of the best ways to help protect your baby from RSV",
-      "url": "https://intermountainhealthcare.org/blogs/article/two-of-the-best-ways-to-help-protect-your-baby-from-rsv",
+      "title": "The importance of sports physicals for youth athletes",
+      "url": "https://intermountainhealthcare.org/blogs/article/the-importance-of-sports-physicals-for-child-athletes",
       "category": "Pediatrics",
-      "description": "RSV can be serious for newborns, but these proven prevention tools can dramatically reduce hospitalizations.",
+      "description": "Safeguard your child’s game with sports physicals before the season.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/youth-sports-physicals.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=553336E31D519C5BC9D0C5F8FADA1FE6"
+    },
+    {
+      "title": "What’s the Difference Between Probiotics and Prebiotics?",
+      "url": "https://intermountainhealthcare.org/blogs/article/difference-between-probiotics-and-prebiotics",
+      "category": "",
+      "description": "We know they’re good for us, but what’s the difference and benefits of each?",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/prebiotics-and-probiotics-for-gut-health.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=A54D5EE72494D9615477334B6CE5E032"
+    },
+    {
+      "title": "What You Need to Know About Your Visit to the ER",
+      "url": "https://intermountainhealthcare.org/blogs/article/what-you-need-to-know-about-your-visit-to-the-er",
+      "category": "",
+      "description": "A trip to the Emergency Room is less than ideal, to say the least. Understanding what will happen once you arrive can reduce some of the stress and ease the frustration of not knowing what to expect.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2017/05/expect-emergency-room-visit.ashx?h=1440&amp;iar=0&amp;w=2560&amp;hash=500D308A003DFE05323BD12ECF333D59"
+    },
+    {
+      "title": "Better Heart Health Means More Birthdays... and That's a Good Thing",
+      "url": "https://intermountainhealthcare.org/blogs/article/better-heart-health-means-more-birthdays",
+      "category": "",
+      "description": "There's a sort-of consensus out there that once you hit a certain age, you don't really look forward to your birthdays. Especially when you hit 40, 50, 60 or higher. David Larsen, one of the firefighters competing in the 2014 My Heart Challenge, celebrated his 40th birthday this past week",
       "imageUrl": ""
     },
     {
-      "title": "Why shortness of breath can be a sign of heart disease in women",
-      "url": "https://intermountainhealthcare.org/blogs/article/why-shortness-of-breath-can-be-a-sign-of-heart-disease-in-women",
-      "category": "Heart health",
-      "description": "Learn how one woman discovered a life‑threatening blockage and why listening to subtle symptoms matters",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/canyons-patient-story.ashx?h=1422&amp;iar=0&amp;w=2523&amp;hash=6920B4C4B72A3E05B81C004E1814583B"
+      "title": "The Benefits of Recovery – It Does Your Body (AND YOUR GAME) Good",
+      "url": "https://intermountainhealthcare.org/blogs/article/benefits-of-recovery-it-does-your-body-and-game-good",
+      "category": "",
+      "description": "As the fall sports season comes to a close, some of you may start to think of upcoming tournaments, travel plans, and holidays. For athletes and parents, now is the time to think…recovery.",
+      "imageUrl": ""
     },
     {
-      "title": "Move more for heart health: why 150 minutes of physical activity per week matters",
-      "url": "https://intermountainhealthcare.org/blogs/article/move-more-for-heart-health-why-150-minutes-of-physical-activity-per-week-matters",
-      "category": "Heart health",
-      "description": "Learn why 150 minutes of weekly movement lowers heart disease risk, improves blood pressure and energy, and supports long‑term cardiovascular health",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/physical-activity-heart-health.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=3086A652EB164FBC1E7ECE922ADDDEF3"
+      "title": "7 Ways to Overcome Depression Without Medication",
+      "url": "https://intermountainhealthcare.org/blogs/article/7-ways-to-overcome-depression-without-medication",
+      "category": "Behavioral health",
+      "description": "The standard medical treatment for depression includes antidepressant medications, such as Lexapro or Zoloft. These medications can be helpful if you’re struggling with depression. However, antidepressants do not always resolve depressive symptoms and can also have unwanted side effects.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/kyle-broad-29486.ashx?h=466&amp;iar=0&amp;w=700&amp;hash=5F472185E00BDBCE5A3725372E7EA887"
     },
     {
-      "title": "GLP-1 medications for heart health: why cardiologists see them as more than a weight loss drug",
-      "url": "https://intermountainhealthcare.org/blogs/article/glp1-medications-for-heart-health-how-these-weight-loss-drugs-may-reduce-heart-attack-risk-colorado",
-      "category": "Heart health",
-      "description": "Learn how these drugs may lower heart attack and stroke risk, reduce inflammation, target visceral fat, and support early cardiovascular prevention",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/glp1-for-heart-health.ashx?h=1500&amp;iar=0&amp;w=2000&amp;hash=A487F5FA238B4C82168E2ADF2A00F735"
+      "title": "6 Tips for Interacting Positively with Children on the Autism Spectrum",
+      "url": "https://intermountainhealthcare.org/blogs/article/6-tips-for-interacting-positively-with-children-on-the-autism-spectrum",
+      "category": "",
+      "description": "Children with autism are sometimes ignored and misunderstood. Learn how to recognize the signs and communicate positively with children with this sometimes subtle disability.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2018/six-tips-for-interacting-positively-with-children-on-the-autism-spectrum.ashx?h=1463&amp;iar=0&amp;w=2600&amp;hash=7303E4FF827A8B5FAE98C9271D89A8E8"
     }
   ]
 }
