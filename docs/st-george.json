@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-06-15T19:07:00.020Z",
+  "scrapedAt": "2026-06-22T18:51:54.788Z",
   "items": [
     {
       "title": "Breast cancer survivor finds quality care close to home",
@@ -10,13 +10,6 @@
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-story-photo-03.ashx?h=2160&amp;iar=0&amp;w=3840&amp;hash=819DB468D3C90F2DC75B17D0330AEC90"
     },
     {
-      "title": "The importance of sports physicals for youth athletes",
-      "url": "https://intermountainhealthcare.org/blogs/article/the-importance-of-sports-physicals-for-child-athletes",
-      "category": "Pediatrics",
-      "description": "Safeguard your child’s game with sports physicals before the season.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/youth-sports-physicals.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=553336E31D519C5BC9D0C5F8FADA1FE6"
-    },
-    {
       "title": "What’s the Difference Between Probiotics and Prebiotics?",
       "url": "https://intermountainhealthcare.org/blogs/article/difference-between-probiotics-and-prebiotics",
       "category": "",
@@ -24,18 +17,18 @@
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/prebiotics-and-probiotics-for-gut-health.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=A54D5EE72494D9615477334B6CE5E032"
     },
     {
-      "title": "What You Need to Know About Your Visit to the ER",
-      "url": "https://intermountainhealthcare.org/blogs/article/what-you-need-to-know-about-your-visit-to-the-er",
-      "category": "",
-      "description": "A trip to the Emergency Room is less than ideal, to say the least. Understanding what will happen once you arrive can reduce some of the stress and ease the frustration of not knowing what to expect.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2017/05/expect-emergency-room-visit.ashx?h=1440&amp;iar=0&amp;w=2560&amp;hash=500D308A003DFE05323BD12ECF333D59"
+      "title": "Patient Credits Intermountain Health Cardiologists: 'They Gave Me My Life Back'",
+      "url": "https://intermountainhealthcare.org/blogs/article/patient-credits-rocky-mountain-heart-institute-cardiologists",
+      "category": "Heart & vascular care",
+      "description": "An alternative to open-heart surgery helped Ken Criter resume normal activities within two weeks.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/ken-criter-heart.ashx?h=454&amp;iar=0&amp;w=808&amp;hash=13A7A32BB725E90BBF80A570DC5B7F04"
     },
     {
-      "title": "Better Heart Health Means More Birthdays... and That's a Good Thing",
-      "url": "https://intermountainhealthcare.org/blogs/article/better-heart-health-means-more-birthdays",
+      "title": "Beware the mini-stroke - know the signs",
+      "url": "https://intermountainhealthcare.org/blogs/article/beware-the-mini-stroke-know-the-signs",
       "category": "",
-      "description": "There's a sort-of consensus out there that once you hit a certain age, you don't really look forward to your birthdays. Especially when you hit 40, 50, 60 or higher. David Larsen, one of the firefighters competing in the 2014 My Heart Challenge, celebrated his 40th birthday this past week",
-      "imageUrl": ""
+      "description": "​If I feel​ stroke symptoms, but they quickly go away, is there cause for concern? Yes. Mini strokes can lead to bigger complications. Protect yourself and know what to do.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2013/2/ministrokes.ashx?h=525&amp;iar=0&amp;w=700&amp;hash=1D079293DC6EE1FF9CC0CC24DD737631"
     },
     {
       "title": "The Benefits of Recovery – It Does Your Body (AND YOUR GAME) Good",
@@ -45,6 +38,13 @@
       "imageUrl": ""
     },
     {
+      "title": "Most Will Experience Back Pain, but What Can be Done",
+      "url": "https://intermountainhealthcare.org/blogs/article/back-pain-most-will-experience-it-but-what-can-be-done",
+      "category": "",
+      "description": "Eight out of ten people will have back pain at some point in their lifetime, but getting an appointment to see a specialist can sometimes take weeks, if not months.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2015/back-pain_700.ashx?h=466&amp;iar=0&amp;w=700&amp;hash=521350E8DA78C463C9E47AF48DBFF915"
+    },
+    {
       "title": "7 Ways to Overcome Depression Without Medication",
       "url": "https://intermountainhealthcare.org/blogs/article/7-ways-to-overcome-depression-without-medication",
       "category": "Behavioral health",
@@ -52,11 +52,11 @@
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/kyle-broad-29486.ashx?h=466&amp;iar=0&amp;w=700&amp;hash=5F472185E00BDBCE5A3725372E7EA887"
     },
     {
-      "title": "6 Tips for Interacting Positively with Children on the Autism Spectrum",
-      "url": "https://intermountainhealthcare.org/blogs/article/6-tips-for-interacting-positively-with-children-on-the-autism-spectrum",
+      "title": "6 Tips to Help Children Handle Failure",
+      "url": "https://intermountainhealthcare.org/blogs/article/6-tips-to-help-children-handle-failure",
       "category": "",
-      "description": "Children with autism are sometimes ignored and misunderstood. Learn how to recognize the signs and communicate positively with children with this sometimes subtle disability.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2018/six-tips-for-interacting-positively-with-children-on-the-autism-spectrum.ashx?h=1463&amp;iar=0&amp;w=2600&amp;hash=7303E4FF827A8B5FAE98C9271D89A8E8"
+      "description": "Much like adults kids have pressures in life that come from a variety of sources. Pressures can come from within the child, parents, teachers, peers and the larger society in which the child lives. Here are a few ways to help children find successful ways to handle life's pressures.",
+      "imageUrl": ""
     }
   ]
 }
