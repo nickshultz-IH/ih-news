@@ -1,13 +1,27 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-06-22T18:51:54.788Z",
+  "scrapedAt": "2026-06-29T17:44:45.030Z",
   "items": [
     {
-      "title": "Breast cancer survivor finds quality care close to home",
-      "url": "https://intermountainhealthcare.org/blogs/article/breast-cancer-survivor-finds-quality-care-close-to-home",
+      "title": "Behind the Bloodwork: Learn what routine labs can uncover",
+      "url": "https://intermountainhealthcare.org/blogs/article/behind-the-bloodwork-learn-what-routine-labs-can-uncover",
+      "category": "Primary care",
+      "description": "Discover how blood tests can uncover hidden health issues early and guide smarter care decisions—even when you feel fine",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/doctor-and-patient-looking-at-test-results-on-digital-tablet.ashx?h=1429&amp;iar=0&amp;w=2098&amp;hash=5184B6E083814BAC07E92AA7AC4861F2"
+    },
+    {
+      "title": "Julie’s Journey: Navigating breast cancer treatment with support of caregivers",
+      "url": "https://intermountainhealthcare.org/blogs/article/julies-journey-navigating-breast-cancer-treatment-with-support-of-caregivers",
       "category": "Cancer care",
-      "description": "Julie Scholes had it all—love, health, and a job she adored. But in spring 2023, a post-workout chest pain and lump changed everything.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-story-photo-03.ashx?h=2160&amp;iar=0&amp;w=3840&amp;hash=819DB468D3C90F2DC75B17D0330AEC90"
+      "description": "Now two years since completing her chemotherapy and in remission, Julie’s story is a testament to the strength and resilience of women facing breast cancer.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-story.ashx?h=3024&amp;iar=0&amp;w=4032&amp;hash=F2B5C3A14247996EE72A1C54E5CB24F6"
+    },
+    {
+      "title": "Tips for choosing addiction treatment options for long-term recovery",
+      "url": "https://intermountainhealthcare.org/blogs/article/tips-for-choosing-addiction-treatment-options-for-long-term-recovery",
+      "category": "",
+      "description": "If you or a loved one is struggling with addiction, seeking professional help is the first step toward recovery.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/addiction-treatment-options.ashx?h=1414&amp;iar=0&amp;w=2120&amp;hash=1955907AFA5787D6A876354E29A4DCDF"
     },
     {
       "title": "What’s the Difference Between Probiotics and Prebiotics?",
@@ -17,46 +31,32 @@
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/prebiotics-and-probiotics-for-gut-health.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=A54D5EE72494D9615477334B6CE5E032"
     },
     {
-      "title": "Patient Credits Intermountain Health Cardiologists: 'They Gave Me My Life Back'",
-      "url": "https://intermountainhealthcare.org/blogs/article/patient-credits-rocky-mountain-heart-institute-cardiologists",
-      "category": "Heart & vascular care",
-      "description": "An alternative to open-heart surgery helped Ken Criter resume normal activities within two weeks.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/ken-criter-heart.ashx?h=454&amp;iar=0&amp;w=808&amp;hash=13A7A32BB725E90BBF80A570DC5B7F04"
-    },
-    {
-      "title": "Beware the mini-stroke - know the signs",
-      "url": "https://intermountainhealthcare.org/blogs/article/beware-the-mini-stroke-know-the-signs",
+      "title": "The Physical Side of Anxiety",
+      "url": "https://intermountainhealthcare.org/blogs/article/the-physical-side-of-anxiety",
       "category": "",
-      "description": "​If I feel​ stroke symptoms, but they quickly go away, is there cause for concern? Yes. Mini strokes can lead to bigger complications. Protect yourself and know what to do.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2013/2/ministrokes.ashx?h=525&amp;iar=0&amp;w=700&amp;hash=1D079293DC6EE1FF9CC0CC24DD737631"
+      "description": "Anxiety is a mental health condition and prevalent as 40 million in the U.S. have some form of anxiety. Yet the symptoms are not reserved to just psychological.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2017/05/physical-anxiety-(2).ashx?h=1440&amp;iar=0&amp;w=2560&amp;hash=6D5CCCD1AD9F412E2D8EDF67EC1B6A32"
     },
     {
-      "title": "The Benefits of Recovery – It Does Your Body (AND YOUR GAME) Good",
-      "url": "https://intermountainhealthcare.org/blogs/article/benefits-of-recovery-it-does-your-body-and-game-good",
+      "title": "9 Useful Pregnancy Snacks",
+      "url": "https://intermountainhealthcare.org/blogs/article/9-useful-pregnancy-snacks",
       "category": "",
-      "description": "As the fall sports season comes to a close, some of you may start to think of upcoming tournaments, travel plans, and holidays. For athletes and parents, now is the time to think…recovery.",
-      "imageUrl": ""
+      "description": "I’ve tried to find a few healthy and easy grab and go snacks that I can quickly eat when I realize I haven’t eaten in a while or I start to feel a little sick. Here are a few of my favs.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2014/04/healthy-snacks_berrett.ashx?h=960&amp;iar=0&amp;w=960&amp;hash=92585DEBD4B04058E80CADE92B05A892"
     },
     {
-      "title": "Most Will Experience Back Pain, but What Can be Done",
-      "url": "https://intermountainhealthcare.org/blogs/article/back-pain-most-will-experience-it-but-what-can-be-done",
+      "title": "7 Ways to Show Your Love for Your Heart",
+      "url": "https://intermountainhealthcare.org/blogs/article/7-ways-to-show-your-love-for-your-heart",
       "category": "",
-      "description": "Eight out of ten people will have back pain at some point in their lifetime, but getting an appointment to see a specialist can sometimes take weeks, if not months.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2015/back-pain_700.ashx?h=466&amp;iar=0&amp;w=700&amp;hash=521350E8DA78C463C9E47AF48DBFF915"
+      "description": "Heart disease is the number 1 killer in the United States. However, most of these deaths are preventable by following a few simple tips from the Intermountain Medical Center Heart Institute in Murray and the American Heart Association.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2016/02/simple-7-heart-health-tips-aha.ashx?h=461&amp;iar=0&amp;w=700&amp;hash=34FBE63ADA2DBCD84DDE422E71B383D9"
     },
     {
-      "title": "7 Ways to Overcome Depression Without Medication",
-      "url": "https://intermountainhealthcare.org/blogs/article/7-ways-to-overcome-depression-without-medication",
-      "category": "Behavioral health",
-      "description": "The standard medical treatment for depression includes antidepressant medications, such as Lexapro or Zoloft. These medications can be helpful if you’re struggling with depression. However, antidepressants do not always resolve depressive symptoms and can also have unwanted side effects.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/kyle-broad-29486.ashx?h=466&amp;iar=0&amp;w=700&amp;hash=5F472185E00BDBCE5A3725372E7EA887"
-    },
-    {
-      "title": "6 Tips to Help Children Handle Failure",
-      "url": "https://intermountainhealthcare.org/blogs/article/6-tips-to-help-children-handle-failure",
+      "title": "7 Unconventional Ways to Squeeze in More Exercise",
+      "url": "https://intermountainhealthcare.org/blogs/article/7-unconventional-ways-to-squeeze-in-more-exercise",
       "category": "",
-      "description": "Much like adults kids have pressures in life that come from a variety of sources. Pressures can come from within the child, parents, teachers, peers and the larger society in which the child lives. Here are a few ways to help children find successful ways to handle life's pressures.",
-      "imageUrl": ""
+      "description": "Workouts can be tough. But exercise doesn’t have to be. For a healthier lifestyle, being active is the key, and it doesn’t much matter what that physical activity is. So if running a half marathon seems overwhelming to you, try one of these unconventional ways to squeeze more exercise into your week.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2016/07/unconventional-ways-to-exercise-more.ashx?h=1440&amp;iar=0&amp;w=2560&amp;hash=FDDE8EFB8B4F0FE3C417F47042D33569"
     }
   ]
 }
