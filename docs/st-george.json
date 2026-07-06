@@ -1,55 +1,34 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-06-29T17:44:45.030Z",
+  "scrapedAt": "2026-07-06T17:49:04.664Z",
   "items": [
     {
-      "title": "Behind the Bloodwork: Learn what routine labs can uncover",
-      "url": "https://intermountainhealthcare.org/blogs/article/behind-the-bloodwork-learn-what-routine-labs-can-uncover",
-      "category": "Primary care",
-      "description": "Discover how blood tests can uncover hidden health issues early and guide smarter care decisions—even when you feel fine",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/doctor-and-patient-looking-at-test-results-on-digital-tablet.ashx?h=1429&amp;iar=0&amp;w=2098&amp;hash=5184B6E083814BAC07E92AA7AC4861F2"
+      "title": "Wearable heart health technology is revolutionizing cardiovascular monitoring",
+      "url": "https://intermountainhealthcare.org/blogs/article/how-wearable-technology-is-revolutionizing-cardiovascular-monitoring",
+      "category": "Heart health, Innovation",
+      "description": "Learn about the latest advancements in heart health tracking and how devices like smartwatches and heart rate monitors can help you stay informed and active",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/wearable-tech-and-heart-health.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=F98A6DBD66134BC923FD9CC3D1AFA95F"
     },
     {
-      "title": "Julie’s Journey: Navigating breast cancer treatment with support of caregivers",
-      "url": "https://intermountainhealthcare.org/blogs/article/julies-journey-navigating-breast-cancer-treatment-with-support-of-caregivers",
-      "category": "Cancer care",
-      "description": "Now two years since completing her chemotherapy and in remission, Julie’s story is a testament to the strength and resilience of women facing breast cancer.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-story.ashx?h=3024&amp;iar=0&amp;w=4032&amp;hash=F2B5C3A14247996EE72A1C54E5CB24F6"
+      "title": "Beware of Avoiding Gluten If You Don't Have Celiac Disease",
+      "url": "https://intermountainhealthcare.org/blogs/article/beware-of-avoiding-gluten-if-you-dont-have-celiac-disease",
+      "category": "Nutrition and weight loss",
+      "description": "If you don’t have celiac disease or a gluten sensitivity, eliminating gluten from your diet can cause nutritional deficiencies.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2017/11/beware-of-avoiding-gluten-if-you-dont-have-celiac-disease.ashx?h=1463&amp;iar=0&amp;w=2600&amp;hash=71E2B2C0193DC13EB0CF2A1C5D4520FD"
     },
     {
-      "title": "Tips for choosing addiction treatment options for long-term recovery",
-      "url": "https://intermountainhealthcare.org/blogs/article/tips-for-choosing-addiction-treatment-options-for-long-term-recovery",
+      "title": "Better Heart Health Means More Birthdays... and That's a Good Thing",
+      "url": "https://intermountainhealthcare.org/blogs/article/better-heart-health-means-more-birthdays",
       "category": "",
-      "description": "If you or a loved one is struggling with addiction, seeking professional help is the first step toward recovery.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/addiction-treatment-options.ashx?h=1414&amp;iar=0&amp;w=2120&amp;hash=1955907AFA5787D6A876354E29A4DCDF"
+      "description": "There's a sort-of consensus out there that once you hit a certain age, you don't really look forward to your birthdays. Especially when you hit 40, 50, 60 or higher. David Larsen, one of the firefighters competing in the 2014 My Heart Challenge, celebrated his 40th birthday this past week",
+      "imageUrl": ""
     },
     {
-      "title": "What’s the Difference Between Probiotics and Prebiotics?",
-      "url": "https://intermountainhealthcare.org/blogs/article/difference-between-probiotics-and-prebiotics",
+      "title": "The Benefits of Recovery – It Does Your Body (AND YOUR GAME) Good",
+      "url": "https://intermountainhealthcare.org/blogs/article/benefits-of-recovery-it-does-your-body-and-game-good",
       "category": "",
-      "description": "We know they’re good for us, but what’s the difference and benefits of each?",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/prebiotics-and-probiotics-for-gut-health.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=A54D5EE72494D9615477334B6CE5E032"
-    },
-    {
-      "title": "The Physical Side of Anxiety",
-      "url": "https://intermountainhealthcare.org/blogs/article/the-physical-side-of-anxiety",
-      "category": "",
-      "description": "Anxiety is a mental health condition and prevalent as 40 million in the U.S. have some form of anxiety. Yet the symptoms are not reserved to just psychological.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2017/05/physical-anxiety-(2).ashx?h=1440&amp;iar=0&amp;w=2560&amp;hash=6D5CCCD1AD9F412E2D8EDF67EC1B6A32"
-    },
-    {
-      "title": "9 Useful Pregnancy Snacks",
-      "url": "https://intermountainhealthcare.org/blogs/article/9-useful-pregnancy-snacks",
-      "category": "",
-      "description": "I’ve tried to find a few healthy and easy grab and go snacks that I can quickly eat when I realize I haven’t eaten in a while or I start to feel a little sick. Here are a few of my favs.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2014/04/healthy-snacks_berrett.ashx?h=960&amp;iar=0&amp;w=960&amp;hash=92585DEBD4B04058E80CADE92B05A892"
-    },
-    {
-      "title": "7 Ways to Show Your Love for Your Heart",
-      "url": "https://intermountainhealthcare.org/blogs/article/7-ways-to-show-your-love-for-your-heart",
-      "category": "",
-      "description": "Heart disease is the number 1 killer in the United States. However, most of these deaths are preventable by following a few simple tips from the Intermountain Medical Center Heart Institute in Murray and the American Heart Association.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2016/02/simple-7-heart-health-tips-aha.ashx?h=461&amp;iar=0&amp;w=700&amp;hash=34FBE63ADA2DBCD84DDE422E71B383D9"
+      "description": "As the fall sports season comes to a close, some of you may start to think of upcoming tournaments, travel plans, and holidays. For athletes and parents, now is the time to think…recovery.",
+      "imageUrl": ""
     },
     {
       "title": "7 Unconventional Ways to Squeeze in More Exercise",
@@ -57,6 +36,27 @@
       "category": "",
       "description": "Workouts can be tough. But exercise doesn’t have to be. For a healthier lifestyle, being active is the key, and it doesn’t much matter what that physical activity is. So if running a half marathon seems overwhelming to you, try one of these unconventional ways to squeeze more exercise into your week.",
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2016/07/unconventional-ways-to-exercise-more.ashx?h=1440&amp;iar=0&amp;w=2560&amp;hash=FDDE8EFB8B4F0FE3C417F47042D33569"
+    },
+    {
+      "title": "7 simple steps for a healthier life – and heart",
+      "url": "https://intermountainhealthcare.org/blogs/article/7-simple-steps-for-a-healthier-life-and-heart",
+      "category": "",
+      "description": "The American Heart Association has defined ideal cardiovascular health based on seven risk factors (Life's Simple 7) that people can improve through lifestyle changes.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2020/06/follow-the-simple-7.ashx?h=4140&amp;iar=0&amp;w=7360&amp;hash=63266AE31D49C34AA592BB7C8B4B74D9"
+    },
+    {
+      "title": "7 Questions You’ve Always Had About Blood Pressure",
+      "url": "https://intermountainhealthcare.org/blogs/article/7-questions-about-blood-pressure",
+      "category": "",
+      "description": "",
+      "imageUrl": ""
+    },
+    {
+      "title": "7 Misconceptions About Midwives",
+      "url": "https://intermountainhealthcare.org/blogs/article/7-misconceptions-about-midwives",
+      "category": "Pregnancy and baby",
+      "description": "Midwives have been caring for women for centuries. But until the 1940s, history tells us they were generally local women with good hearts and instincts, but no formal education. Times have changed, as has the scope of midwifery practice.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2016/07/7-misconceptions-about-midwives-blog.ashx?h=1440&amp;iar=0&amp;w=2560&amp;hash=97B393CFA3B2CBA4ECF483F1B4852C47"
     }
   ]
 }
