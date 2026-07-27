@@ -1,62 +1,62 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-07-20T16:39:11.034Z",
+  "scrapedAt": "2026-07-27T17:05:03.762Z",
   "items": [
     {
-      "title": "Julie’s Journey: Navigating breast cancer treatment with support of caregivers",
-      "url": "https://intermountainhealthcare.org/blogs/article/julies-journey-navigating-breast-cancer-treatment-with-support-of-caregivers",
-      "category": "Cancer care",
-      "description": "Now two years since completing her chemotherapy and in remission, Julie’s story is a testament to the strength and resilience of women facing breast cancer.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-story.ashx?h=3024&amp;iar=0&amp;w=4032&amp;hash=F2B5C3A14247996EE72A1C54E5CB24F6"
+      "title": "Understanding Kidney Stones: How to recognize, prevent and manage them",
+      "url": "https://intermountainhealthcare.org/blogs/article/understanding-kidney-stones-how-to-recognize-prevent-and-manage-them",
+      "category": "Wellness and preventative medicine",
+      "description": "Stay informed and take control of your kidney health with expert advice and practical tips",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/understanding-kidney-stones.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=E8405AADDD9A70823C5F8C6101605AD9"
     },
     {
-      "title": "Pickleball Safety 101: Expert tips to Keep You in the game",
-      "url": "https://intermountainhealthcare.org/blogs/article/pickleball-safety-101-expert-tips-to-keep-you-in-the-game",
-      "category": "Sports medicine, Orthopedics",
-      "description": "Use these few tweaks to help keep you from getting in a real pickle on the court.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/pickleball-safety-tips.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=047445915189A15D69448B499C4099B3"
-    },
-    {
-      "title": "New Technology Helps Keep Breast Cancer from Coming Back",
-      "url": "https://intermountainhealthcare.org/blogs/article/breast-cancer-technology",
-      "category": "",
-      "description": "With the help of new technology, doctors can find and treat the stray cancer cells that make cancer come back.",
-      "imageUrl": ""
-    },
-    {
-      "title": "Breaking Down Stigma and Building Awareness Around Mental Health",
-      "url": "https://intermountainhealthcare.org/blogs/article/breaking-down-stigma-and-building-awareness-around-mental-health",
-      "category": "",
-      "description": "Mental illness is common. Nearly one in five Americans have mental illness. Clint Thurgood, director of Crisis Service at Intermountain Healthcare talks about why it’s important to talk openly about our mental health and how we can work together to overcome the stigma around mental health.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/legacy-posts/2021/05/mental-health-matters.ashx?h=3766&amp;iar=0&amp;w=6695&amp;hash=839398BEF1F2BD2EB8B65AAA3EC6B1DC"
-    },
-    {
-      "title": "A Better Way of Doing Prostate Screening",
-      "url": "https://intermountainhealthcare.org/blogs/article/a-better-way-of-doing-prostate-screening",
-      "category": "",
-      "description": "Prostate cancer is the leading type of cancer among Utah men, and Utah has one of the highest incidents of prostate cancer in the country. Addressing this issue is a priority, so how do we detect prostate cancer early and make sure patients have the best outcomes possible?",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2016/09/a-better-way-of-doing-prostate-screening-blog.ashx?h=1440&amp;iar=0&amp;w=2560&amp;hash=C45BAE6F3687669C58FFB2D686C68567"
-    },
-    {
-      "title": "7 Misconceptions About Midwives",
-      "url": "https://intermountainhealthcare.org/blogs/article/7-misconceptions-about-midwives",
+      "title": "Learn about the benefits of hypnosis for birth",
+      "url": "https://intermountainhealthcare.org/blogs/article/learn-about-the-benefits-of-hypnosis-for-birth",
       "category": "Pregnancy and baby",
-      "description": "Midwives have been caring for women for centuries. But until the 1940s, history tells us they were generally local women with good hearts and instincts, but no formal education. Times have changed, as has the scope of midwifery practice.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2016/07/7-misconceptions-about-midwives-blog.ashx?h=1440&amp;iar=0&amp;w=2560&amp;hash=97B393CFA3B2CBA4ECF483F1B4852C47"
+      "description": "",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/benefits-of-hypnosis-for-birth.ashx?h=1414&amp;iar=0&amp;w=2121&amp;hash=9B3845E32AD626BD5E8E71FDAF7876EC"
     },
     {
-      "title": "6 Tips to Better Manage Your Stress",
-      "url": "https://intermountainhealthcare.org/blogs/article/6-tips-to-better-manage-your-stress",
+      "title": "How to prepare and what to expect from an MRI",
+      "url": "https://intermountainhealthcare.org/blogs/article/how-to-prepare-and-what-to-expect-from-an-mri",
+      "category": "Neurology",
+      "description": "By knowing what to expect during an MRI, you can feel more at ease during the procedure.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/prep-for-an-mri.ashx?h=1323&amp;iar=0&amp;w=2265&amp;hash=AD5F464301ECBAA39CA1608C2B94E947"
+    },
+    {
+      "title": "A Patient's Journey Through Thyroid Cancer",
+      "url": "https://intermountainhealthcare.org/blogs/article/patients-journey-through-thyroid-cancer",
       "category": "",
-      "description": "In today’s society, more and more people are dealing with stress. It has become increasingly important to find ways to manage stress as it is shown to have a direct relation to your heart’s health.",
+      "description": "It’s often easy to ignore symptoms like fatigue and simply chalk them up to our modern, harried lifestyles. But, it’s important to take stock in what your body is telling you and discuss symptoms with your primary care doctor when those vague feelings of something being “not quite right” come up.",
       "imageUrl": ""
     },
     {
-      "title": "5 Misconceptions About Mammograms",
-      "url": "https://intermountainhealthcare.org/blogs/article/5-misconceptions-about-mammograms",
-      "category": "Women's health",
-      "description": "Many misconceptions exist about mammograms, but the fact is mammograms can impact your long-term health — and save your life.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/legacy-posts/2018/06/myths-about-mammograms.ashx?h=1463&amp;iar=0&amp;w=2600&amp;hash=E18AC143A2F00F46955842C39A433956"
+      "title": "Are girls more prone to ACL injuries?",
+      "url": "https://intermountainhealthcare.org/blogs/article/are-girls-more-prone-to-acl-injuries",
+      "category": "",
+      "description": "Intermountain studies how to prevent these injuries in youth soccer. ​",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2013/4/soccer.ashx?h=509&amp;iar=0&amp;w=455&amp;hash=B3E89B69804D3059FB1F7A6365B06496"
+    },
+    {
+      "title": "AHA16: An Opportunity for the World's Top Heart Researchers to Collaborate",
+      "url": "https://intermountainhealthcare.org/blogs/article/aha16-heart-researchers-collaborate-to-defeat-coronary-artery-disease",
+      "category": "Heart & vascular care",
+      "description": "The American Heart Association's 2016 Scientific Sessions in New Orleans will bring together science, technology and networking opportunities for heart clinicians and researchers from around the world.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2016/11/intermountain-medical-center-heart-institute-booth-aha16-utah.ashx?h=461&amp;iar=0&amp;w=700&amp;hash=1238A88BBF13E93F4F68683F7D606183"
+    },
+    {
+      "title": "Addiction is a Dark Time, but Recovery is the Dawn",
+      "url": "https://intermountainhealthcare.org/blogs/article/addiction-is-a-dark-time-but-there-is-hope",
+      "category": "",
+      "description": "If you struggle with addiction or know someone who does, overcoming it may feel impossible. But there’s hope. This story follows a man’s 13-year journey through addiction and how he beat the odds with the help of supportive caregivers at IH Addiction Medicine & Recovery (formerly Dayspring) at LDS Hospital.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/posts/2018/11/trent1.ashx?h=418&amp;iar=0&amp;w=735&amp;hash=7F928748F88755583FC14D0954FE473A"
+    },
+    {
+      "title": "911 Program Bridges Gap between Urgent and Emergent Healthcare",
+      "url": "https://intermountainhealthcare.org/blogs/article/911-program-bridges-gap-between-urgent-and-emergent-healthcare",
+      "category": "",
+      "description": "As a community partner, Intermountain Healthcare’s North Temple Clinic recently completed a successful, two-year pilot program with the fire department to help meet the needs of people who call 911, but who may not have life-emergent situations.",
+      "imageUrl": ""
     }
   ]
 }
