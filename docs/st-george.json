@@ -1,62 +1,62 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-08-10T16:04:34.522Z",
+  "scrapedAt": "2026-08-17T15:32:32.904Z",
   "items": [
     {
-      "title": "At-home lab draws: get your blood work done without leaving the house",
-      "url": "https://intermountainhealthcare.org/blogs/article/at-home-lab-draws-get-your-blood-work-done-without-leaving-the-house",
+      "title": "Non-Hodgkin’s lymphoma: Finding the human side of cancer care",
+      "url": "https://intermountainhealthcare.org/blogs/article/non-hodgkins-lymphoma-finding-the-human-side-of-cancer-care",
+      "category": "Cancer care",
+      "description": "When Terri Locher was diagnosed with cancer, she faced an uncertain road ahead. Guided by a trusted advocate and surrounded by a caring oncology team, she discovered strength, gratitude, and the power of truly personal care.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/terri-locher-july-4-2026.ashx?h=1964&amp;iar=0&amp;w=3076"
+    },
+    {
+      "title": "Back-to-school anxiety: Warning signs and expert tips for parents",
+      "url": "https://intermountainhealthcare.org/blogs/article/back-to-school-anxiety-warning-signs-and-expert-tips-for-parents",
+      "category": "Pediatrics",
+      "description": "Learn the signs of back-to-school anxiety, coping strategies that help, and when parents should seek support from teachers, counselors, or healthcare providers.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/back-to-school-anxiety.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Is it low testosterone? 5 signs men shouldn’t ignore",
+      "url": "https://intermountainhealthcare.org/blogs/article/low-testosterone-vs-ed-symptoms-when-to-get-tested",
+      "category": "Primary care",
+      "description": "Not sure if it’s low testosterone or erectile dysfunction? Learn the key symptoms, what a testosterone test can reveal, and when to seek care for fatigue, low libido, or performance changes.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/mens-health-low-testosterone-signs.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Squamous Cell Carcinoma: Facing the Unknown with Grace, Humor and Action",
+      "url": "https://intermountainhealthcare.org/blogs/article/squamous-cell-carcinoma-facing-the-unknown-with-grace-humor-and-action",
+      "category": "Cancer care",
+      "description": "Chuck shares how facing metastatic squamous cell carcinoma—after several earlier cancer diagnoses—reinforced the importance of swift action, self‑advocacy, and humor.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/cancer-survivor-chuck.ashx?h=3802&amp;iar=0&amp;w=5700"
+    },
+    {
+      "title": "How price transparency is changing the way patients experience care",
+      "url": "https://intermountainhealthcare.org/blogs/article/how-price-transparency-is-changing-the-way-patients-experience-care",
       "category": "Transforming healthcare",
-      "description": "Need lab work but don’t want to leave home? See how it works, who it helps, and how to schedule your visit",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/at-home-lab-draws-intermountain-health.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "description": "Tellica Imaging is redefining patient care with transparent, flat-rate pricing and fast scheduling",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/tellica-price-transparency.ashx?h=1414&amp;iar=0&amp;w=2121"
     },
     {
-      "title": "How oncology nurse navigators help patients overcome barriers to cancer care",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-oncology-nurse-navigators-help-patients-overcome-barriers-to-cancer-care",
+      "title": "Breast cancer survivor finds quality care close to home",
+      "url": "https://intermountainhealthcare.org/blogs/article/breast-cancer-survivor-finds-quality-care-close-to-home",
       "category": "Cancer care",
-      "description": "Learn how oncology nurse navigators support patients and provide emotional guidance from diagnosis through recovery",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/oncology-nurse-navigators.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "description": "Julie Scholes had it all—love, health, and a job she adored. But in spring 2023, a post-workout chest pain and lump changed everything.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-story-photo-03.ashx?h=2160&amp;iar=0&amp;w=3840"
     },
     {
-      "title": "Why shortness of breath can be a sign of heart disease in women",
-      "url": "https://intermountainhealthcare.org/blogs/article/why-shortness-of-breath-can-be-a-sign-of-heart-disease-in-women",
-      "category": "Heart health",
-      "description": "Learn how one woman discovered a life‑threatening blockage and why listening to subtle symptoms matters",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/canyons-patient-story.ashx?h=1422&amp;iar=0&amp;w=2523"
-    },
-    {
-      "title": "Move more for heart health: why 150 minutes of physical activity per week matters",
-      "url": "https://intermountainhealthcare.org/blogs/article/move-more-for-heart-health-why-150-minutes-of-physical-activity-per-week-matters",
-      "category": "Heart health",
-      "description": "Learn why 150 minutes of weekly movement lowers heart disease risk, improves blood pressure and energy, and supports long‑term cardiovascular health",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/physical-activity-heart-health.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Genetic testing is eye-opening for Montana family with a history of cancer",
-      "url": "https://intermountainhealthcare.org/blogs/article/genetic-testing-is-eye-opening-for-montana-family-with-a-history-of-cancer",
+      "title": "AML Leukemia: Sister's lifesaving match leads to remission",
+      "url": "https://intermountainhealthcare.org/blogs/article/aml-leukemia-sisters-lifesaving-match-leads-to-remission",
       "category": "Cancer care",
-      "description": "Discover how one woman’s routine checkup led to a life-saving diagnosis of Lynch syndrome.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/genetics-reveal-life-saving-clues.ashx?h=1167&amp;iar=0&amp;w=948"
+      "description": "Discover the inspiring journey of Rebekah Louder, a single mother of four, who defied a devastating leukemia diagnosis with unwavering hope, faith, and the support of her family",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/aml-with-video-icon.ashx?h=600&amp;iar=0&amp;w=800"
     },
     {
-      "title": "PrEP: The HIV prevention pill too many people never hear about",
-      "url": "https://intermountainhealthcare.org/blogs/article/prep-the-hiv-prevention-pill-too-many-people-never-hear-about",
-      "category": "Pharmacy, Public health",
-      "description": "PrEP is a powerful HIV prevention tool—yet too many people still don’t know it exists. Learn how PrEP works, who it’s for, and how Intermountain Health is breaking stigma with easy, affirming access to care.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/male-couple-prep.ashx?h=3840&amp;iar=0&amp;w=5760"
-    },
-    {
-      "title": "Is Simply Birth right for you?",
-      "url": "https://intermountainhealthcare.org/blogs/article/is-simply-birth-right-for-you",
-      "category": "Pregnancy and baby",
-      "description": "How to have a home-like birth within the safety of a hospital setting",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/blog/legacy-posts/mom-dad-baby.ashx?h=492&amp;iar=0&amp;w=700"
-    },
-    {
-      "title": "The surprising health benefits of volunteering",
-      "url": "https://intermountainhealthcare.org/blogs/article/the-surprising-health-benefits-of-volunteering",
-      "category": "Community benefit, Careers",
-      "description": "Learn how volunteering strengthens your emotional, physical and social well-being",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/health-benefits-of-volunteering.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "A parent's guide recognizing and addressing your child's social media struggles",
+      "url": "https://intermountainhealthcare.org/blogs/article/a-parents-guide-recognizing-and-addressing-your-childs-social-media-struggles",
+      "category": "Behavioral health",
+      "description": "Is your child quietly struggling with online interaction? How to tell if your child is hurting – and what to do",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/children-mental-health-and-social-media.ashx?h=1414&amp;iar=0&amp;w=2121"
     }
   ]
 }
