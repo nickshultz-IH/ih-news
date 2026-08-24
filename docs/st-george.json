@@ -1,62 +1,62 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-08-17T15:32:32.904Z",
+  "scrapedAt": "2026-08-24T15:48:03.936Z",
   "items": [
     {
-      "title": "Non-Hodgkin’s lymphoma: Finding the human side of cancer care",
-      "url": "https://intermountainhealthcare.org/blogs/article/non-hodgkins-lymphoma-finding-the-human-side-of-cancer-care",
-      "category": "Cancer care",
-      "description": "When Terri Locher was diagnosed with cancer, she faced an uncertain road ahead. Guided by a trusted advocate and surrounded by a caring oncology team, she discovered strength, gratitude, and the power of truly personal care.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/terri-locher-july-4-2026.ashx?h=1964&amp;iar=0&amp;w=3076"
-    },
-    {
-      "title": "Back-to-school anxiety: Warning signs and expert tips for parents",
-      "url": "https://intermountainhealthcare.org/blogs/article/back-to-school-anxiety-warning-signs-and-expert-tips-for-parents",
+      "title": "Before you say yes to an e-bike or electric scooter, ask these 5 questions",
+      "url": "https://intermountainhealthcare.org/blogs/article/before-you-say-yes-to-an-e-bike-or-electric-scooter-ask-these-5-questions",
       "category": "Pediatrics",
-      "description": "Learn the signs of back-to-school anxiety, coping strategies that help, and when parents should seek support from teachers, counselors, or healthcare providers.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/back-to-school-anxiety.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "description": "From speed and safety to helmets and readiness, these 5 questions can help parents decide if their child is truly ready to ride",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/600-px-article-3-main-kid-on-e-bike.ashx?h=300&amp;iar=0&amp;w=600"
     },
     {
-      "title": "Is it low testosterone? 5 signs men shouldn’t ignore",
-      "url": "https://intermountainhealthcare.org/blogs/article/low-testosterone-vs-ed-symptoms-when-to-get-tested",
+      "title": "Is this perimenopause? How to make sense of the confusion and find what works",
+      "url": "https://intermountainhealthcare.org/blogs/article/is-this-perimenopause-how-to-make-sense-of-the-confusion-and-find-what-works",
+      "category": "Women's health",
+      "description": "Perimenopause can feel confusing and different for everyone. Learn when it starts, common symptoms, and what treatments can help you feel better.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/understanding-perimenopause.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Move more for heart health: why 150 minutes of physical activity per week matters",
+      "url": "https://intermountainhealthcare.org/blogs/article/move-more-for-heart-health-why-150-minutes-of-physical-activity-per-week-matters",
+      "category": "Heart health",
+      "description": "Learn why 150 minutes of weekly movement lowers heart disease risk, improves blood pressure and energy, and supports long‑term cardiovascular health",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/physical-activity-heart-health.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Winterize your vehicle: The emergency kit checklist every driver needs",
+      "url": "https://intermountainhealthcare.org/blogs/article/winterize-your-vehicle-the-emergency-kit-checklist-every-driver-needs",
+      "category": "Emergency care, Public health",
+      "description": "Learn how to winterize your vehicle with a comprehensive emergency kit checklist.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/winter-driving-safety.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Step into birth with confidence: The impact of Intermountain Healthcare’s classes",
+      "url": "https://intermountainhealthcare.org/blogs/article/step-into-birth-with-confidence-the-impact-of-intermountain-healthcare-classes",
+      "category": "Pregnancy and baby",
+      "description": "Learn labor techniques, newborn care, and how to advocate for yourself—available in-person, online, and in Spanish for families across Southwest Utah and beyond",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/step-into-birth-with-confidence.ashx?h=1414&amp;iar=0&amp;w=2120"
+    },
+    {
+      "title": "Behind the Bloodwork: Learn what routine labs can uncover",
+      "url": "https://intermountainhealthcare.org/blogs/article/behind-the-bloodwork-learn-what-routine-labs-can-uncover",
       "category": "Primary care",
-      "description": "Not sure if it’s low testosterone or erectile dysfunction? Learn the key symptoms, what a testosterone test can reveal, and when to seek care for fatigue, low libido, or performance changes.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/mens-health-low-testosterone-signs.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "description": "Discover how blood tests can uncover hidden health issues early and guide smarter care decisions—even when you feel fine",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/doctor-and-patient-looking-at-test-results-on-digital-tablet.ashx?h=1429&amp;iar=0&amp;w=2098"
     },
     {
-      "title": "Squamous Cell Carcinoma: Facing the Unknown with Grace, Humor and Action",
-      "url": "https://intermountainhealthcare.org/blogs/article/squamous-cell-carcinoma-facing-the-unknown-with-grace-humor-and-action",
-      "category": "Cancer care",
-      "description": "Chuck shares how facing metastatic squamous cell carcinoma—after several earlier cancer diagnoses—reinforced the importance of swift action, self‑advocacy, and humor.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/cancer-survivor-chuck.ashx?h=3802&amp;iar=0&amp;w=5700"
+      "title": "How to protect your heart in the heat",
+      "url": "https://intermountainhealthcare.org/blogs/article/how-to-protect-your-heart-in-the-heat",
+      "category": "Heart health",
+      "description": "Discover 6 essential ways to stay safe, hydrated and heart-healthy this summer from our cardiovascular expert",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/how-to-protect-your-heart-in-the-heat.ashx?h=1414&amp;iar=0&amp;w=2121"
     },
     {
-      "title": "How price transparency is changing the way patients experience care",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-price-transparency-is-changing-the-way-patients-experience-care",
-      "category": "Transforming healthcare",
-      "description": "Tellica Imaging is redefining patient care with transparent, flat-rate pricing and fast scheduling",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/tellica-price-transparency.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Breast cancer survivor finds quality care close to home",
-      "url": "https://intermountainhealthcare.org/blogs/article/breast-cancer-survivor-finds-quality-care-close-to-home",
-      "category": "Cancer care",
-      "description": "Julie Scholes had it all—love, health, and a job she adored. But in spring 2023, a post-workout chest pain and lump changed everything.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-story-photo-03.ashx?h=2160&amp;iar=0&amp;w=3840"
-    },
-    {
-      "title": "AML Leukemia: Sister's lifesaving match leads to remission",
-      "url": "https://intermountainhealthcare.org/blogs/article/aml-leukemia-sisters-lifesaving-match-leads-to-remission",
-      "category": "Cancer care",
-      "description": "Discover the inspiring journey of Rebekah Louder, a single mother of four, who defied a devastating leukemia diagnosis with unwavering hope, faith, and the support of her family",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/aml-with-video-icon.ashx?h=600&amp;iar=0&amp;w=800"
-    },
-    {
-      "title": "A parent's guide recognizing and addressing your child's social media struggles",
-      "url": "https://intermountainhealthcare.org/blogs/article/a-parents-guide-recognizing-and-addressing-your-childs-social-media-struggles",
-      "category": "Behavioral health",
-      "description": "Is your child quietly struggling with online interaction? How to tell if your child is hurting – and what to do",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/children-mental-health-and-social-media.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "Back on track: Cedar City caregiver more active thanks to sports medicine",
+      "url": "https://intermountainhealthcare.org/blogs/article/back-on-track-cedar-city-caregiver-more-active-thanks-to-sports-medicine",
+      "category": "Sports medicine",
+      "description": "Discover how sports medicine transformed Whitney Nielsen's life, helping her overcome chronic pain and regain mobility",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/back-on-track.ashx?h=2560&amp;iar=0&amp;w=2560"
     }
   ]
 }
