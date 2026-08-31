@@ -1,62 +1,62 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-08-24T15:48:03.936Z",
+  "scrapedAt": "2026-08-31T20:45:54.980Z",
   "items": [
     {
-      "title": "Before you say yes to an e-bike or electric scooter, ask these 5 questions",
-      "url": "https://intermountainhealthcare.org/blogs/article/before-you-say-yes-to-an-e-bike-or-electric-scooter-ask-these-5-questions",
-      "category": "Pediatrics",
-      "description": "From speed and safety to helmets and readiness, these 5 questions can help parents decide if their child is truly ready to ride",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/600-px-article-3-main-kid-on-e-bike.ashx?h=300&amp;iar=0&amp;w=600"
+      "title": "Early-onset colon cancer: symptoms, risk factors, and when to get screened",
+      "url": "https://intermountainhealthcare.org/blogs/article/early-onset-colon-cancer-symptoms-risk-factors-and-when-to-get-screened",
+      "category": "Cancer care",
+      "description": "Colon cancer is rising in adults under 50, often diagnosed at advanced stages. Learn why speaking up early can save lives.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/colon-cancer-in-younger-adults.ashx?h=1318&amp;iar=0&amp;w=2274"
     },
     {
-      "title": "Is this perimenopause? How to make sense of the confusion and find what works",
-      "url": "https://intermountainhealthcare.org/blogs/article/is-this-perimenopause-how-to-make-sense-of-the-confusion-and-find-what-works",
+      "title": "Genetic testing is eye-opening for Montana family with a history of cancer",
+      "url": "https://intermountainhealthcare.org/blogs/article/genetic-testing-is-eye-opening-for-montana-family-with-a-history-of-cancer",
+      "category": "Cancer care",
+      "description": "Discover how one woman’s routine checkup led to a life-saving diagnosis of Lynch syndrome.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/genetics-reveal-life-saving-clues.ashx?h=1167&amp;iar=0&amp;w=948"
+    },
+    {
+      "title": "Wearable heart health technology is revolutionizing cardiovascular monitoring",
+      "url": "https://intermountainhealthcare.org/blogs/article/how-wearable-technology-is-revolutionizing-cardiovascular-monitoring",
+      "category": "Heart health, Innovation",
+      "description": "Learn about the latest advancements in heart health tracking and how devices like smartwatches and heart rate monitors can help you stay informed and active",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/wearable-tech-and-heart-health.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "The surprising health benefits of volunteering",
+      "url": "https://intermountainhealthcare.org/blogs/article/the-surprising-health-benefits-of-volunteering",
+      "category": "Community benefit, Careers",
+      "description": "Learn how volunteering strengthens your emotional, physical and social well-being",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/health-benefits-of-volunteering.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Busting the myths about mammography screenings",
+      "url": "https://intermountainhealthcare.org/blogs/article/mammogram-myths-and-facts",
       "category": "Women's health",
-      "description": "Perimenopause can feel confusing and different for everyone. Learn when it starts, common symptoms, and what treatments can help you feel better.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/understanding-perimenopause.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "description": "Many misconceptions exist about mammograms, but the fact is mammograms can impact your long-term health — and save your life.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/mammography-101.ashx?h=1414&amp;iar=0&amp;w=2121"
     },
     {
-      "title": "Move more for heart health: why 150 minutes of physical activity per week matters",
-      "url": "https://intermountainhealthcare.org/blogs/article/move-more-for-heart-health-why-150-minutes-of-physical-activity-per-week-matters",
-      "category": "Heart health",
-      "description": "Learn why 150 minutes of weekly movement lowers heart disease risk, improves blood pressure and energy, and supports long‑term cardiovascular health",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/physical-activity-heart-health.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "Living with COPD and Asthma: Tips for managing daily life",
+      "url": "https://intermountainhealthcare.org/blogs/article/living-with-copd-and-asthma-tips-for-managing-daily-life",
+      "category": "Wellness and preventative medicine",
+      "description": "With the right strategies and support, you can manage your symptoms and enjoy a better quality of life.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/living-with-copd-and-asthma.ashx?h=1414&amp;iar=0&amp;w=2121"
     },
     {
-      "title": "Winterize your vehicle: The emergency kit checklist every driver needs",
-      "url": "https://intermountainhealthcare.org/blogs/article/winterize-your-vehicle-the-emergency-kit-checklist-every-driver-needs",
-      "category": "Emergency care, Public health",
-      "description": "Learn how to winterize your vehicle with a comprehensive emergency kit checklist.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/winter-driving-safety.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "Will this allergy season be extra bad due to the dry winter?",
+      "url": "https://intermountainhealthcare.org/blogs/article/allergy-season-extra-bad-due-to-dry-winter",
+      "category": "Wellness and preventative medicine",
+      "description": "You're not imagining it – allergy season is worse this year. Here are some tips to manage your symptoms.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/tips-for-allergy-season.ashx?h=1386&amp;iar=0&amp;w=2164"
     },
     {
-      "title": "Step into birth with confidence: The impact of Intermountain Healthcare’s classes",
-      "url": "https://intermountainhealthcare.org/blogs/article/step-into-birth-with-confidence-the-impact-of-intermountain-healthcare-classes",
-      "category": "Pregnancy and baby",
-      "description": "Learn labor techniques, newborn care, and how to advocate for yourself—available in-person, online, and in Spanish for families across Southwest Utah and beyond",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/step-into-birth-with-confidence.ashx?h=1414&amp;iar=0&amp;w=2120"
-    },
-    {
-      "title": "Behind the Bloodwork: Learn what routine labs can uncover",
-      "url": "https://intermountainhealthcare.org/blogs/article/behind-the-bloodwork-learn-what-routine-labs-can-uncover",
-      "category": "Primary care",
-      "description": "Discover how blood tests can uncover hidden health issues early and guide smarter care decisions—even when you feel fine",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/doctor-and-patient-looking-at-test-results-on-digital-tablet.ashx?h=1429&amp;iar=0&amp;w=2098"
-    },
-    {
-      "title": "How to protect your heart in the heat",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-to-protect-your-heart-in-the-heat",
-      "category": "Heart health",
-      "description": "Discover 6 essential ways to stay safe, hydrated and heart-healthy this summer from our cardiovascular expert",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/how-to-protect-your-heart-in-the-heat.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Back on track: Cedar City caregiver more active thanks to sports medicine",
-      "url": "https://intermountainhealthcare.org/blogs/article/back-on-track-cedar-city-caregiver-more-active-thanks-to-sports-medicine",
-      "category": "Sports medicine",
-      "description": "Discover how sports medicine transformed Whitney Nielsen's life, helping her overcome chronic pain and regain mobility",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/back-on-track.ashx?h=2560&amp;iar=0&amp;w=2560"
+      "title": "Heart attack or heartburn? When to worry",
+      "url": "https://intermountainhealthcare.org/blogs/article/heartburn-or-heart-attack-when-to-worry",
+      "category": "Heart and vascular",
+      "description": "",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/heart-attack-or-heartburn.ashx?h=1414&amp;iar=0&amp;w=2119"
     }
   ]
 }
