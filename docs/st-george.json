@@ -1,62 +1,62 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-08-31T20:45:54.980Z",
+  "scrapedAt": "2026-09-07T19:05:37.597Z",
   "items": [
     {
-      "title": "Early-onset colon cancer: symptoms, risk factors, and when to get screened",
-      "url": "https://intermountainhealthcare.org/blogs/article/early-onset-colon-cancer-symptoms-risk-factors-and-when-to-get-screened",
+      "title": "Non-Hodgkin’s lymphoma: Finding the human side of cancer care",
+      "url": "https://intermountainhealthcare.org/blogs/article/non-hodgkins-lymphoma-finding-the-human-side-of-cancer-care",
       "category": "Cancer care",
-      "description": "Colon cancer is rising in adults under 50, often diagnosed at advanced stages. Learn why speaking up early can save lives.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/colon-cancer-in-younger-adults.ashx?h=1318&amp;iar=0&amp;w=2274"
+      "description": "When Terri Locher was diagnosed with cancer, she faced an uncertain road ahead. Guided by a trusted advocate and surrounded by a caring oncology team, she discovered strength, gratitude, and the power of truly personal care.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/terri-locher-july-4-2026.ashx?h=1964&amp;iar=0&amp;w=3076"
     },
     {
-      "title": "Genetic testing is eye-opening for Montana family with a history of cancer",
-      "url": "https://intermountainhealthcare.org/blogs/article/genetic-testing-is-eye-opening-for-montana-family-with-a-history-of-cancer",
+      "title": "Before you say yes to an e-bike or electric scooter, ask these 5 questions",
+      "url": "https://intermountainhealthcare.org/blogs/article/before-you-say-yes-to-an-e-bike-or-electric-scooter-ask-these-5-questions",
+      "category": "Pediatrics",
+      "description": "From speed and safety to helmets and readiness, these 5 questions can help parents decide if their child is truly ready to ride",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/600-px-article-3-main-kid-on-e-bike.ashx?h=300&amp;iar=0&amp;w=600"
+    },
+    {
+      "title": "New Utah e-bike laws are coming: what St. George families should know",
+      "url": "https://intermountainhealthcare.org/blogs/article/new-utah-e-bike-laws-are-coming-what-st-george-families-should-know",
+      "category": "Pediatrics",
+      "description": "From helmet requirements to age rules and speed limits, here’s what parents and kids should know before the next ride",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/600-px-article-3-main-kid-on-e-bike.ashx?h=300&amp;iar=0&amp;w=600"
+    },
+    {
+      "title": "How watching animals can help you feel calmer and more present",
+      "url": "https://intermountainhealthcare.org/blogs/article/how-watching-animals-can-help-you-feel-calmer-and-more-present",
+      "category": "Wellness and preventative medicine",
+      "description": "Feeling stressed? Discover how watching animals can boost mindfulness, reduce stress, and help you feel calmer and more present—plus simple tips to try at the zoo or at home.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/mom-daughter-watching-the-animal-from-the-terrarium.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "The hidden cost of chronic pain: What it steals and how to take it back",
+      "url": "https://intermountainhealthcare.org/blogs/article/the-hidden-cost-of-chronic-pain-what-it-steals-and-how-to-take-it-back",
+      "category": "Wellness and preventative medicine",
+      "description": "Discover how our whole-person approach and virtual care options help you reclaim your strength, confidence and quality of life",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/what-chronic-pain-really-steals.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Breast cancer survivor finds quality care close to home",
+      "url": "https://intermountainhealthcare.org/blogs/article/breast-cancer-survivor-finds-quality-care-close-to-home",
       "category": "Cancer care",
-      "description": "Discover how one woman’s routine checkup led to a life-saving diagnosis of Lynch syndrome.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/genetics-reveal-life-saving-clues.ashx?h=1167&amp;iar=0&amp;w=948"
+      "description": "Julie Scholes had it all—love, health, and a job she adored. But in spring 2023, a post-workout chest pain and lump changed everything.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-story-photo-03.ashx?h=2160&amp;iar=0&amp;w=3840"
     },
     {
-      "title": "Wearable heart health technology is revolutionizing cardiovascular monitoring",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-wearable-technology-is-revolutionizing-cardiovascular-monitoring",
-      "category": "Heart health, Innovation",
-      "description": "Learn about the latest advancements in heart health tracking and how devices like smartwatches and heart rate monitors can help you stay informed and active",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/wearable-tech-and-heart-health.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "AML Leukemia: Sister's lifesaving match leads to remission",
+      "url": "https://intermountainhealthcare.org/blogs/article/aml-leukemia-sisters-lifesaving-match-leads-to-remission",
+      "category": "Cancer care",
+      "description": "Discover the inspiring journey of Rebekah Louder, a single mother of four, who defied a devastating leukemia diagnosis with unwavering hope, faith, and the support of her family",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/aml-with-video-icon.ashx?h=600&amp;iar=0&amp;w=800"
     },
     {
-      "title": "The surprising health benefits of volunteering",
-      "url": "https://intermountainhealthcare.org/blogs/article/the-surprising-health-benefits-of-volunteering",
-      "category": "Community benefit, Careers",
-      "description": "Learn how volunteering strengthens your emotional, physical and social well-being",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/health-benefits-of-volunteering.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Busting the myths about mammography screenings",
-      "url": "https://intermountainhealthcare.org/blogs/article/mammogram-myths-and-facts",
-      "category": "Women's health",
-      "description": "Many misconceptions exist about mammograms, but the fact is mammograms can impact your long-term health — and save your life.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/mammography-101.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Living with COPD and Asthma: Tips for managing daily life",
-      "url": "https://intermountainhealthcare.org/blogs/article/living-with-copd-and-asthma-tips-for-managing-daily-life",
+      "title": "Health benefits of quitting alcohol and sober recipe ideas",
+      "url": "https://intermountainhealthcare.org/blogs/article/health-benefits-of-quitting-alcohol-and-sober-recipe-ideas",
       "category": "Wellness and preventative medicine",
-      "description": "With the right strategies and support, you can manage your symptoms and enjoy a better quality of life.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/living-with-copd-and-asthma.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Will this allergy season be extra bad due to the dry winter?",
-      "url": "https://intermountainhealthcare.org/blogs/article/allergy-season-extra-bad-due-to-dry-winter",
-      "category": "Wellness and preventative medicine",
-      "description": "You're not imagining it – allergy season is worse this year. Here are some tips to manage your symptoms.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/tips-for-allergy-season.ashx?h=1386&amp;iar=0&amp;w=2164"
-    },
-    {
-      "title": "Heart attack or heartburn? When to worry",
-      "url": "https://intermountainhealthcare.org/blogs/article/heartburn-or-heart-attack-when-to-worry",
-      "category": "Heart and vascular",
-      "description": "",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/heart-attack-or-heartburn.ashx?h=1414&amp;iar=0&amp;w=2119"
+      "description": "Embracing a sober lifestyle can be incredibly rewarding, offering numerous health benefits and opportunities for personal growth",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/dry-january-health-benefits.ashx?h=1414&amp;iar=0&amp;w=2120"
     }
   ]
 }
