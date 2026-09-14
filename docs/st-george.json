@@ -1,27 +1,27 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-09-07T19:05:37.597Z",
+  "scrapedAt": "2026-09-14T19:48:45.879Z",
   "items": [
     {
-      "title": "Non-Hodgkin’s lymphoma: Finding the human side of cancer care",
-      "url": "https://intermountainhealthcare.org/blogs/article/non-hodgkins-lymphoma-finding-the-human-side-of-cancer-care",
+      "title": "HPV-related tonsil cancer: Embracing a new normal",
+      "url": "https://intermountainhealthcare.org/blogs/article/hpv-related-tonsil-cancer-embracing-a-new-normal",
       "category": "Cancer care",
-      "description": "When Terri Locher was diagnosed with cancer, she faced an uncertain road ahead. Guided by a trusted advocate and surrounded by a caring oncology team, she discovered strength, gratitude, and the power of truly personal care.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/terri-locher-july-4-2026.ashx?h=1964&amp;iar=0&amp;w=3076"
+      "description": "After an HPV-related tonsil cancer diagnosis changed the course of his life, Park City resident David Staley found strength in family, support from friends, and compassionate cancer care that helped him move forward with hope.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/david-staley-cancer-care.ashx?h=768&amp;iar=0&amp;w=1024"
     },
     {
-      "title": "Before you say yes to an e-bike or electric scooter, ask these 5 questions",
-      "url": "https://intermountainhealthcare.org/blogs/article/before-you-say-yes-to-an-e-bike-or-electric-scooter-ask-these-5-questions",
-      "category": "Pediatrics",
-      "description": "From speed and safety to helmets and readiness, these 5 questions can help parents decide if their child is truly ready to ride",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/600-px-article-3-main-kid-on-e-bike.ashx?h=300&amp;iar=0&amp;w=600"
+      "title": "At-home lab draws: get your blood work done without leaving the house",
+      "url": "https://intermountainhealthcare.org/blogs/article/at-home-lab-draws-get-your-blood-work-done-without-leaving-the-house",
+      "category": "Transforming healthcare",
+      "description": "Need lab work but don’t want to leave home? See how it works, who it helps, and how to schedule your visit",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/at-home-lab-draws-intermountain-health.ashx?h=1414&amp;iar=0&amp;w=2121"
     },
     {
-      "title": "New Utah e-bike laws are coming: what St. George families should know",
-      "url": "https://intermountainhealthcare.org/blogs/article/new-utah-e-bike-laws-are-coming-what-st-george-families-should-know",
-      "category": "Pediatrics",
-      "description": "From helmet requirements to age rules and speed limits, here’s what parents and kids should know before the next ride",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/600-px-article-3-main-kid-on-e-bike.ashx?h=300&amp;iar=0&amp;w=600"
+      "title": "BE FAST: you only need one stroke warning sign to call 911",
+      "url": "https://intermountainhealthcare.org/blogs/article/be-fast-you-only-need-one-stroke-warning-sign-to-call-911",
+      "category": "Emergency care",
+      "description": "Learn the warning signs, why one sudden change is enough to call 911, and how fast action can save brain function and lives.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/stroke-awareness-signs-and-symptoms.ashx?h=2400&amp;iar=0&amp;w=3600"
     },
     {
       "title": "How watching animals can help you feel calmer and more present",
@@ -31,11 +31,18 @@
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/mom-daughter-watching-the-animal-from-the-terrarium.ashx?h=1414&amp;iar=0&amp;w=2121"
     },
     {
-      "title": "The hidden cost of chronic pain: What it steals and how to take it back",
-      "url": "https://intermountainhealthcare.org/blogs/article/the-hidden-cost-of-chronic-pain-what-it-steals-and-how-to-take-it-back",
-      "category": "Wellness and preventative medicine",
-      "description": "Discover how our whole-person approach and virtual care options help you reclaim your strength, confidence and quality of life",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/what-chronic-pain-really-steals.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "How to manage holiday stress and family expectations without burning out",
+      "url": "https://intermountainhealthcare.org/blogs/article/how-to-manage-holiday-stress-and-family-expectations-without-burning-out",
+      "category": "Behavioral health",
+      "description": "Discover practical strategies to reduce holiday stress and protect your mental health. Psychologist Claire McDonough, PsyD, shares expert tips on setting boundaries, managing expectations, and finding meaningful connection during the festive season.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/managing-stress-during-holidays.ashx?h=1414&amp;iar=0&amp;w=2120"
+    },
+    {
+      "title": "Behind the Bloodwork: Learn what routine labs can uncover",
+      "url": "https://intermountainhealthcare.org/blogs/article/behind-the-bloodwork-learn-what-routine-labs-can-uncover",
+      "category": "Primary care",
+      "description": "Discover how blood tests can uncover hidden health issues early and guide smarter care decisions—even when you feel fine",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/doctor-and-patient-looking-at-test-results-on-digital-tablet.ashx?h=1429&amp;iar=0&amp;w=2098"
     },
     {
       "title": "Breast cancer survivor finds quality care close to home",
@@ -45,18 +52,11 @@
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-story-photo-03.ashx?h=2160&amp;iar=0&amp;w=3840"
     },
     {
-      "title": "AML Leukemia: Sister's lifesaving match leads to remission",
-      "url": "https://intermountainhealthcare.org/blogs/article/aml-leukemia-sisters-lifesaving-match-leads-to-remission",
-      "category": "Cancer care",
-      "description": "Discover the inspiring journey of Rebekah Louder, a single mother of four, who defied a devastating leukemia diagnosis with unwavering hope, faith, and the support of her family",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/aml-with-video-icon.ashx?h=600&amp;iar=0&amp;w=800"
-    },
-    {
-      "title": "Health benefits of quitting alcohol and sober recipe ideas",
-      "url": "https://intermountainhealthcare.org/blogs/article/health-benefits-of-quitting-alcohol-and-sober-recipe-ideas",
-      "category": "Wellness and preventative medicine",
-      "description": "Embracing a sober lifestyle can be incredibly rewarding, offering numerous health benefits and opportunities for personal growth",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/dry-january-health-benefits.ashx?h=1414&amp;iar=0&amp;w=2120"
+      "title": "Back on track: Cedar City caregiver more active thanks to sports medicine",
+      "url": "https://intermountainhealthcare.org/blogs/article/back-on-track-cedar-city-caregiver-more-active-thanks-to-sports-medicine",
+      "category": "Sports medicine",
+      "description": "Discover how sports medicine transformed Whitney Nielsen's life, helping her overcome chronic pain and regain mobility",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/back-on-track.ashx?h=2560&amp;iar=0&amp;w=2560"
     }
   ]
 }
