@@ -1,41 +1,48 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-09-21T19:56:47.055Z",
+  "scrapedAt": "2026-09-28T21:11:32.657Z",
   "items": [
     {
-      "title": "Life after cancer treatment: why your care doesn't have to end when treatment does",
-      "url": "https://intermountainhealthcare.org/blogs/article/life-after-cancer-treatment-why-your-care-does-not-have-to-end-when-treatment-does",
+      "title": "HPV-related tonsil cancer: Embracing a new normal",
+      "url": "https://intermountainhealthcare.org/blogs/article/hpv-related-tonsil-cancer-embracing-a-new-normal",
       "category": "Cancer care",
-      "description": "Learn how Intermountain Health helps patients manage long‑term effects, emotional health, and follow‑up care",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/cancer-survivorship-services.ashx?h=1414&amp;iar=0&amp;w=2120"
+      "description": "After an HPV-related tonsil cancer diagnosis changed the course of his life, Park City resident David Staley found strength in family, support from friends, and compassionate cancer care that helped him move forward with hope.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/david-staley-cancer-care.ashx?h=768&amp;iar=0&amp;w=1024"
     },
     {
-      "title": "How watching animals can help you feel calmer and more present",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-watching-animals-can-help-you-feel-calmer-and-more-present",
-      "category": "Wellness and preventative medicine",
-      "description": "Feeling stressed? Discover how watching animals can boost mindfulness, reduce stress, and help you feel calmer and more present—plus simple tips to try at the zoo or at home.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/mom-daughter-watching-the-animal-from-the-terrarium.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "AML Leukemia: Sister's lifesaving match leads to remission",
-      "url": "https://intermountainhealthcare.org/blogs/article/aml-leukemia-sisters-lifesaving-match-leads-to-remission",
-      "category": "Cancer care",
-      "description": "Discover the inspiring journey of Rebekah Louder, a single mother of four, who defied a devastating leukemia diagnosis with unwavering hope, faith, and the support of her family",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/aml-with-video-icon.ashx?h=600&amp;iar=0&amp;w=800"
-    },
-    {
-      "title": "Is Simply Birth right for you?",
-      "url": "https://intermountainhealthcare.org/blogs/article/is-simply-birth-right-for-you",
+      "title": "Step into birth with confidence: The impact of Intermountain Healthcare’s classes",
+      "url": "https://intermountainhealthcare.org/blogs/article/step-into-birth-with-confidence-the-impact-of-intermountain-healthcare-classes",
       "category": "Pregnancy and baby",
-      "description": "How to have a home-like birth within the safety of a hospital setting",
-      "imageUrl": ""
+      "description": "Learn labor techniques, newborn care, and how to advocate for yourself—available in-person, online, and in Spanish for families across Southwest Utah and beyond",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/step-into-birth-with-confidence.ashx?h=1414&amp;iar=0&amp;w=2120"
     },
     {
-      "title": "Big Timber teen excited for college after undergoing heart surgery",
-      "url": "https://intermountainhealthcare.org/blogs/article/big-timber-teen-excited-for-college-after-undergoing-heart-surgery",
-      "category": "Heart health",
-      "description": "Weston, a high-achieving teenager aiming for a veterinary career, was unexpectedly told he needed urgent heart surgery after his annual check-up revealed signs of heart strain",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/jacobs-story-montana.ashx?h=937&amp;iar=0&amp;w=1405"
+      "title": "Back on track: Cedar City caregiver more active thanks to sports medicine",
+      "url": "https://intermountainhealthcare.org/blogs/article/back-on-track-cedar-city-caregiver-more-active-thanks-to-sports-medicine",
+      "category": "Sports medicine",
+      "description": "Discover how sports medicine transformed Whitney Nielsen's life, helping her overcome chronic pain and regain mobility",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/back-on-track.ashx?h=2560&amp;iar=0&amp;w=2560"
+    },
+    {
+      "title": "Blood Pressure Basics: Why it matters & how to keep it in check",
+      "url": "https://intermountainhealthcare.org/blogs/article/why-knowing-your-blood-pressure-matters-for-your-heart-health",
+      "category": "",
+      "description": "Lets break down blood pressure readings and their importance in preventing heart disease",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/understanding-your-blood-pressure.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Explore your personal and family cancer history with high-risk prevention services",
+      "url": "https://intermountainhealthcare.org/blogs/article/explore-your-personal-and-family-cancer-history-with-high-risk-prevention-services",
+      "category": "Cancer care",
+      "description": "We help patients understand their risk for cancer, develop a personalized plan for surveillance and risk reduction, and ensure patients get appropriate care and support.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/high-risk-cancer-prevention.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Know, help, heal: Suicide risk factors and warning signs",
+      "url": "https://intermountainhealthcare.org/blogs/article/suicide-risk-factors-and-warning-signs",
+      "category": "Behavioral health, Public health",
+      "description": "Use these resources and tools to support you in healing, helping and saving lives",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/suicide-risk-factors-warning-signs.ashx?h=1414&amp;iar=0&amp;w=2120"
     },
     {
       "title": "Navigate your breastfeeding journey with Connect Care lactation help",
@@ -50,13 +57,6 @@
       "category": "Wellness and preventative medicine",
       "description": "You're not imagining it – allergy season is worse this year. Here are some tips to manage your symptoms.",
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/tips-for-allergy-season.ashx?h=1386&amp;iar=0&amp;w=2164"
-    },
-    {
-      "title": "Breathing easy into motherhood with nitrous oxide assisted deliveries",
-      "url": "https://intermountainhealthcare.org/blogs/article/breathing-easy-into-motherhood-with-nitrous-oxide-assisted-deliveries",
-      "category": "",
-      "description": "Discover the empowering world and benefits of nitrous oxide-assisted deliveries",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/nitrous-oxide-assisted-deliveries.ashx?h=491&amp;iar=0&amp;w=916"
     }
   ]
 }
