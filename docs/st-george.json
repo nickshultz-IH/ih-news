@@ -1,62 +1,62 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-10-05T21:57:33.930Z",
+  "scrapedAt": "2026-10-12T22:28:16.262Z",
   "items": [
     {
-      "title": "Navigating scanxiety: Finding calm during breast cancer screening and treatment",
-      "url": "https://intermountainhealthcare.org/blogs/article/navigating-scanxiety-finding-calm-during-breast-cancer-screening-and-treatment",
-      "category": "Women's health",
-      "description": "Learn how to manage scanxiety — the stress and uncertainty around breast cancer screenings and results. Discover expert tips, calming strategies, and emotional support resources to help you feel more in control.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/pink-ribbon-for-breast-cancer-awareness.ashx?h=1414&amp;iar=0&amp;w=2119"
-    },
-    {
-      "title": "How to protect your heart in the heat",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-to-protect-your-heart-in-the-heat",
-      "category": "Heart health",
-      "description": "Discover 6 essential ways to stay safe, hydrated and heart-healthy this summer from our cardiovascular expert",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/how-to-protect-your-heart-in-the-heat.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Back on track: Cedar City caregiver more active thanks to sports medicine",
-      "url": "https://intermountainhealthcare.org/blogs/article/back-on-track-cedar-city-caregiver-more-active-thanks-to-sports-medicine",
+      "title": "What does your VO2 max number mean A guide to fitness and healthy aging",
+      "url": "https://intermountainhealthcare.org/blogs/article/what-does-your-vo2-max-number-mean-a-guide-to-fitness-and-healthy-aging",
       "category": "Sports medicine",
-      "description": "Discover how sports medicine transformed Whitney Nielsen's life, helping her overcome chronic pain and regain mobility",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/back-on-track.ashx?h=2560&amp;iar=0&amp;w=2560"
+      "description": "Learn what your VO2 max number means, how it reflects cardiovascular fitness, why it matters for healthy aging, and how to improve it safely over time.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/vo2-max-testing.ashx?h=5760&amp;iar=0&amp;w=8640"
     },
     {
-      "title": "8 heart-healthy superfoods to boost cardiovascular wellness",
-      "url": "https://intermountainhealthcare.org/blogs/article/heart-healthy-superfoods-you-need-in-your-diet",
-      "category": "Heart health",
-      "description": "Dive into our list of accessible and nutrient-rich foods that promote cardiovascular health",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/heart-healthy-super-foods.ashx?h=1518&amp;iar=0&amp;w=1976"
+      "title": "Breast cancer treatments keep improving. Don’t let that make you skip screening",
+      "url": "https://intermountainhealthcare.org/blogs/article/how-breast-cancer-treatments-keep-improving",
+      "category": "Cancer care",
+      "description": "Breast cancer treatments have improved survival rates, but early detection remains key. Learn why mammograms, breast awareness and personalized screening plans still matter.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/breast-cancer-awareness-ribbon.ashx?h=1414&amp;iar=0&amp;w=2121"
     },
     {
-      "title": "Goodbye flu, hello healthy: How to prep for this flu season",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-to-prep-for-this-flu-season",
+      "title": "HPV-related tonsil cancer: Embracing a new normal",
+      "url": "https://intermountainhealthcare.org/blogs/article/hpv-related-tonsil-cancer-embracing-a-new-normal",
+      "category": "Cancer care",
+      "description": "After an HPV-related tonsil cancer diagnosis changed the course of his life, Park City resident David Staley found strength in family, support from friends, and compassionate cancer care that helped him move forward with hope.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/david-staley-cancer-care.ashx?h=768&amp;iar=0&amp;w=1024"
+    },
+    {
+      "title": "Back-to-school anxiety: Warning signs and expert tips for parents",
+      "url": "https://intermountainhealthcare.org/blogs/article/back-to-school-anxiety-warning-signs-and-expert-tips-for-parents",
+      "category": "Pediatrics",
+      "description": "Learn the signs of back-to-school anxiety, coping strategies that help, and when parents should seek support from teachers, counselors, or healthcare providers.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/back-to-school-anxiety.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Life after cancer treatment: why your care doesn't have to end when treatment does",
+      "url": "https://intermountainhealthcare.org/blogs/article/life-after-cancer-treatment-why-your-care-does-not-have-to-end-when-treatment-does",
+      "category": "Cancer care",
+      "description": "Learn how Intermountain Health helps patients manage long‑term effects, emotional health, and follow‑up care",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/cancer-survivorship-services.ashx?h=1414&amp;iar=0&amp;w=2120"
+    },
+    {
+      "title": "Two of the best ways to help protect your baby from RSV",
+      "url": "https://intermountainhealthcare.org/blogs/article/two-of-the-best-ways-to-help-protect-your-baby-from-rsv",
+      "category": "Pediatrics",
+      "description": "RSV can be serious for newborns, but these proven prevention tools can dramatically reduce hospitalizations.",
+      "imageUrl": ""
+    },
+    {
+      "title": "Nurturing Hope: How losing weight could help your fertility journey",
+      "url": "https://intermountainhealthcare.org/blogs/article/nurturing-hope-how-losing-weight-could-help-your-fertility-journey",
+      "category": "Pregnancy and baby",
+      "description": "Weight loss is a journey as personal and emotional as your fertility journey.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/fertility-and-weight-loss.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Creating family adventures with parent-friendly services at the zoo",
+      "url": "https://intermountainhealthcare.org/blogs/article/creating-family-adventures-with-parent-friendly-services-at-the-zoo",
       "category": "Wellness and preventative medicine",
-      "description": "Your comprehensive guide to staying well-informed and healthy this fall",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/goodbye-flu-hello-healthy.ashx?h=3082&amp;iar=0&amp;w=4500"
-    },
-    {
-      "title": "Healing through 4-H: A Western Colorado girl’s journey",
-      "url": "https://intermountainhealthcare.org/blogs/article/healing-through-4-h-a-western-colorado-girls-journey",
-      "category": "Neurology",
-      "description": "Discover the inspiring journey of 14-year-old Brynna Katzenberger",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/brynna-katzenberger.ashx?h=1600&amp;iar=0&amp;w=1200"
-    },
-    {
-      "title": "Your emotional spring-cleaning checklist for your mental health",
-      "url": "https://intermountainhealthcare.org/blogs/article/your-emotional-spring-cleaning-checklist-for-your-mental-health",
-      "category": "Behavioral health",
-      "description": "",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/spring-cleaning-for-the-mind.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Heart attack or heartburn? When to worry",
-      "url": "https://intermountainhealthcare.org/blogs/article/heartburn-or-heart-attack-when-to-worry",
-      "category": "Heart and vascular",
-      "description": "",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/heart-attack-or-heartburn.ashx?h=1414&amp;iar=0&amp;w=2119"
+      "description": "Accessibility options make the Denver Zoo Conservation Alliance a welcoming place for all",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/walk-with-wildlife-denver-zoo/tiger-denver-zoo.ashx?h=4024&amp;iar=0&amp;w=6048"
     }
   ]
 }
