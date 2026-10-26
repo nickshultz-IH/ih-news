@@ -1,41 +1,20 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-10-19T20:32:02.346Z",
+  "scrapedAt": "2026-10-26T20:29:44.092Z",
   "items": [
     {
-      "title": "Breast cancer treatments keep improving. Don’t let that make you skip screening",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-breast-cancer-treatments-keep-improving",
+      "title": "Does vaping help teen anxiety? What parents should know about nicotine, THC, and mental health",
+      "url": "https://intermountainhealthcare.org/blogs/article/how-to-talk-with-your-teen-about-vaping-nicotine-and-mental-health",
+      "category": "Pediatrics",
+      "description": "Learn why nicotine and THC vaping may seem to ease teen anxiety, how they affect mental health, and how parents can help teens cope.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/vaping-nicotine-and-mental-health.ashx?h=2224&amp;iar=0&amp;w=3333"
+    },
+    {
+      "title": "Early-onset colon cancer: symptoms, risk factors, and when to get screened",
+      "url": "https://intermountainhealthcare.org/blogs/article/early-onset-colon-cancer-symptoms-risk-factors-and-when-to-get-screened",
       "category": "Cancer care",
-      "description": "Breast cancer treatments have improved survival rates, but early detection remains key. Learn why mammograms, breast awareness and personalized screening plans still matter.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/breast-cancer-awareness-ribbon.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Revenge bedtime procrastination: Why you stay up late even when you know you’ll regret it",
-      "url": "https://intermountainhealthcare.org/blogs/article/revenge-bedtime-procrastination-why-you-stay-up-late",
-      "category": "Behavioral health",
-      "description": "Revenge bedtime procrastination happens when people delay sleep to reclaim personal time. Learn why it happens, how sleep loss affects your health, and how to protect both rest and “me time.”",
-      "imageUrl": ""
-    },
-    {
-      "title": "Winterize your vehicle: The emergency kit checklist every driver needs",
-      "url": "https://intermountainhealthcare.org/blogs/article/winterize-your-vehicle-the-emergency-kit-checklist-every-driver-needs",
-      "category": "Emergency care, Public health",
-      "description": "Learn how to winterize your vehicle with a comprehensive emergency kit checklist.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/winter-driving-safety.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Step into birth with confidence: The impact of Intermountain Healthcare’s classes",
-      "url": "https://intermountainhealthcare.org/blogs/article/step-into-birth-with-confidence-the-impact-of-intermountain-healthcare-classes",
-      "category": "Pregnancy and baby",
-      "description": "Learn labor techniques, newborn care, and how to advocate for yourself—available in-person, online, and in Spanish for families across Southwest Utah and beyond",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/step-into-birth-with-confidence.ashx?h=1414&amp;iar=0&amp;w=2120"
-    },
-    {
-      "title": "PrEP: The HIV prevention pill too many people never hear about",
-      "url": "https://intermountainhealthcare.org/blogs/article/prep-the-hiv-prevention-pill-too-many-people-never-hear-about",
-      "category": "Pharmacy, Public health",
-      "description": "PrEP is a powerful HIV prevention tool—yet too many people still don’t know it exists. Learn how PrEP works, who it’s for, and how Intermountain Health is breaking stigma with easy, affirming access to care.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/male-couple-prep.ashx?h=3840&amp;iar=0&amp;w=5760"
+      "description": "Colon cancer is rising in adults under 50, often diagnosed at advanced stages. Learn why speaking up early can save lives.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/colon-cancer-in-younger-adults.ashx?h=1318&amp;iar=0&amp;w=2274"
     },
     {
       "title": "Understanding Kidney Stones: How to recognize, prevent and manage them",
@@ -45,18 +24,39 @@
       "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/understanding-kidney-stones.ashx?h=1414&amp;iar=0&amp;w=2121"
     },
     {
-      "title": "Blood Pressure Basics: Why it matters & how to keep it in check",
-      "url": "https://intermountainhealthcare.org/blogs/article/why-knowing-your-blood-pressure-matters-for-your-heart-health",
-      "category": "",
-      "description": "Lets break down blood pressure readings and their importance in preventing heart disease",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/understanding-your-blood-pressure.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "Discover the convenience of at-home colon cancer testing",
+      "url": "https://intermountainhealthcare.org/blogs/article/discover-the-convenience-of-at-home-colon-cancer-testing",
+      "category": "Cancer care, Innovation",
+      "description": "Understanding your risks and exploring your screening options are vital steps in preventing colon cancer",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/colon-cancer-in-younger-adults.ashx?h=1318&amp;iar=0&amp;w=2274"
     },
     {
-      "title": "Your emotional spring-cleaning checklist for your mental health",
-      "url": "https://intermountainhealthcare.org/blogs/article/your-emotional-spring-cleaning-checklist-for-your-mental-health",
-      "category": "Behavioral health",
-      "description": "",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/spring-cleaning-for-the-mind.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "The surprising health benefits of volunteering",
+      "url": "https://intermountainhealthcare.org/blogs/article/the-surprising-health-benefits-of-volunteering",
+      "category": "Community benefit, Careers",
+      "description": "Learn how volunteering strengthens your emotional, physical and social well-being",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/health-benefits-of-volunteering.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "Big Timber teen excited for college after undergoing heart surgery",
+      "url": "https://intermountainhealthcare.org/blogs/article/big-timber-teen-excited-for-college-after-undergoing-heart-surgery",
+      "category": "Heart health",
+      "description": "Weston, a high-achieving teenager aiming for a veterinary career, was unexpectedly told he needed urgent heart surgery after his annual check-up revealed signs of heart strain",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/jacobs-story-montana.ashx?h=937&amp;iar=0&amp;w=1405"
+    },
+    {
+      "title": "Julie’s Journey: Navigating breast cancer treatment with support of caregivers",
+      "url": "https://intermountainhealthcare.org/blogs/article/julies-journey-navigating-breast-cancer-treatment-with-support-of-caregivers",
+      "category": "Cancer care",
+      "description": "Now two years since completing her chemotherapy and in remission, Julie’s story is a testament to the strength and resilience of women facing breast cancer.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/julies-journey-new-1.ashx?h=2333&amp;iar=0&amp;w=3024"
+    },
+    {
+      "title": "Creating family adventures with parent-friendly services at the zoo",
+      "url": "https://intermountainhealthcare.org/blogs/article/creating-family-adventures-with-parent-friendly-services-at-the-zoo",
+      "category": "Wellness and preventative medicine",
+      "description": "Accessibility options make the Denver Zoo Conservation Alliance a welcoming place for all",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/walk-with-wildlife-denver-zoo/tiger-denver-zoo.ashx?h=4024&amp;iar=0&amp;w=6048"
     }
   ]
 }
