@@ -1,62 +1,62 @@
 {
   "sourceUrl": "https://intermountainhealthcare.org/locations/st-george-regional-hospital",
-  "scrapedAt": "2026-11-02T23:04:05.406Z",
+  "scrapedAt": "2026-11-09T23:44:57.015Z",
   "items": [
     {
-      "title": "How responsive neurostimulation helped a young girl with severe epilepsy",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-responsive-neurostimulation-helped-a-young-girl-with-severe-epilepsy",
+      "title": "Breast cancer treatments keep improving. Don’t let that make you skip screening",
+      "url": "https://intermountainhealthcare.org/blogs/article/how-breast-cancer-treatments-keep-improving",
+      "category": "Cancer care",
+      "description": "Breast cancer treatments have improved survival rates, but early detection remains key. Learn why mammograms, breast awareness and personalized screening plans still matter.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/breast-cancer-awareness-ribbon.ashx?h=1414&amp;iar=0&amp;w=2121"
+    },
+    {
+      "title": "The bathroom changes men think are normal – but shouldn't ignore",
+      "url": "https://intermountainhealthcare.org/blogs/article/the-bathroom-changes-men-think-are-normal-but-shouldnt-ignore",
+      "category": "Primary care, Health education",
+      "description": "Bathroom changes like frequent urination, weak urine flow, or waking up at night may be signs of an enlarged prostate. Learn when men should see a doctor.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/prostate-health-male-checkup-with-doctor.ashx?h=2001&amp;iar=0&amp;w=3000"
+    },
+    {
+      "title": "Two of the best ways to help protect your baby from RSV",
+      "url": "https://intermountainhealthcare.org/blogs/article/two-of-the-best-ways-to-help-protect-your-baby-from-rsv",
       "category": "Pediatrics",
-      "description": "Learn about the treatment that significantly reduced Ryan Ford’s severe, drug-resistant seizures and restored opportunities for family life",
+      "description": "RSV can be serious for newborns, but these proven prevention tools can dramatically reduce hospitalizations.",
       "imageUrl": ""
     },
     {
-      "title": "What does your VO2 max number mean? A guide to fitness and healthy aging",
-      "url": "https://intermountainhealthcare.org/blogs/article/guide-to-your-vo2-max-number",
-      "category": "Sports medicine",
-      "description": "Learn what your VO2 max number means, how it reflects cardiovascular fitness, why it matters for healthy aging, and how to improve it safely over time.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/vo2-max-testing.ashx?h=5760&amp;iar=0&amp;w=8640"
+      "title": "Behind the Bloodwork: Learn what routine labs can uncover",
+      "url": "https://intermountainhealthcare.org/blogs/article/behind-the-bloodwork-learn-what-routine-labs-can-uncover",
+      "category": "Primary care",
+      "description": "Discover how blood tests can uncover hidden health issues early and guide smarter care decisions—even when you feel fine",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/doctor-and-patient-looking-at-test-results-on-digital-tablet.ashx?h=1429&amp;iar=0&amp;w=2098"
     },
     {
-      "title": "Walking might be the most underrated exercise for your health",
-      "url": "https://intermountainhealthcare.org/blogs/article/walking-might-be-the-most-underrated-exercise-for-your-health",
-      "category": "Sports medicine",
-      "description": "Walking is a simple, accessible way to support your heart, mood, mobility and overall health. Learn the benefits of walking and how to start a routine.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/walking-is-having-a-moment.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "Winning the Mental Game: How Intermountain Health is supporting youth mental wellness in Nevada",
+      "url": "https://intermountainhealthcare.org/blogs/article/winning-the-mental-game-how-intermountain-health-is-supporting-youth-mental-wellness-in-nevada",
+      "category": "Behavioral health",
+      "description": "Intermountain Health, the Las Vegas Raiders, and The Defensive Line hosted a powerful youth mental wellness event in Nevada—featuring fitness, mindfulness, and real conversations to break the stigma around mental health.",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/raiders-mental-health-event.ashx?h=5504&amp;iar=0&amp;w=8256"
     },
     {
-      "title": "Is this perimenopause? How to make sense of the confusion and find what works",
-      "url": "https://intermountainhealthcare.org/blogs/article/is-this-perimenopause-how-to-make-sense-of-the-confusion-and-find-what-works",
-      "category": "Women's health",
-      "description": "Perimenopause can feel confusing and different for everyone. Learn when it starts, common symptoms, and what treatments can help you feel better.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/understanding-perimenopause.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "Discover the convenience of at-home colon cancer testing",
+      "url": "https://intermountainhealthcare.org/blogs/article/discover-the-convenience-of-at-home-colon-cancer-testing",
+      "category": "Cancer care, Innovation",
+      "description": "Understanding your risks and exploring your screening options are vital steps in preventing colon cancer",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/colon-cancer-in-younger-adults.ashx?h=1318&amp;iar=0&amp;w=2274"
     },
     {
-      "title": "Squamous Cell Carcinoma: Facing the Unknown with Grace, Humor and Action",
-      "url": "https://intermountainhealthcare.org/blogs/article/squamous-cell-carcinoma-facing-the-unknown-with-grace-humor-and-action",
-      "category": "Cancer care",
-      "description": "Chuck shares how facing metastatic squamous cell carcinoma—after several earlier cancer diagnoses—reinforced the importance of swift action, self‑advocacy, and humor.",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/cancer-survivor-chuck.ashx?h=3802&amp;iar=0&amp;w=5700"
+      "title": "Blood Pressure Basics: Why it matters & how to keep it in check",
+      "url": "https://intermountainhealthcare.org/blogs/article/why-knowing-your-blood-pressure-matters-for-your-heart-health",
+      "category": "",
+      "description": "Lets break down blood pressure readings and their importance in preventing heart disease",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/understanding-your-blood-pressure.ashx?h=1414&amp;iar=0&amp;w=2121"
     },
     {
-      "title": "How price transparency is changing the way patients experience care",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-price-transparency-is-changing-the-way-patients-experience-care",
-      "category": "Transforming healthcare",
-      "description": "Tellica Imaging is redefining patient care with transparent, flat-rate pricing and fast scheduling",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/tellica-price-transparency.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "How to protect your heart in the heat",
-      "url": "https://intermountainhealthcare.org/blogs/article/how-to-protect-your-heart-in-the-heat",
-      "category": "Heart health",
-      "description": "Discover 6 essential ways to stay safe, hydrated and heart-healthy this summer from our cardiovascular expert",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/how-to-protect-your-heart-in-the-heat.ashx?h=1414&amp;iar=0&amp;w=2121"
-    },
-    {
-      "title": "Understanding Kidney Stones: How to recognize, prevent and manage them",
-      "url": "https://intermountainhealthcare.org/blogs/article/understanding-kidney-stones-how-to-recognize-prevent-and-manage-them",
-      "category": "Wellness and preventative medicine",
-      "description": "Stay informed and take control of your kidney health with expert advice and practical tips",
-      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/understanding-kidney-stones.ashx?h=1414&amp;iar=0&amp;w=2121"
+      "title": "The surprising health benefits of volunteering",
+      "url": "https://intermountainhealthcare.org/blogs/article/the-surprising-health-benefits-of-volunteering",
+      "category": "Community benefit, Careers",
+      "description": "Learn how volunteering strengthens your emotional, physical and social well-being",
+      "imageUrl": "https://intermountainhealthcare.org/-/media/images/intermountain-health/blogs/health-benefits-of-volunteering.ashx?h=1414&amp;iar=0&amp;w=2121"
     }
   ]
 }
